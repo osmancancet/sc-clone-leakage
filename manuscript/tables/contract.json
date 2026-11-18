@@ -1,0 +1,71 @@
+{
+ "caption_tr": "Messi-Q kümelerinde sözleşme düzeyinde MCC / ROC-AUC değerleri",
+ "caption_en": "Contract-level MCC / ROC-AUC values on Messi-Q",
+ "font": 7,
+ "wide": true,
+ "header": [
+  "Veri seti",
+  "Rejim",
+  "Tekil test sözleşmesi (pozitif)",
+  "5-EYK (bellek)",
+  "TF-IDF + LR",
+  "CodeBERT + LR",
+  "TextCNN"
+ ],
+ "rows": [
+  [
+   "Messi-Q yeniden giriş",
+   "Rastgele",
+   "119-127 (39-47)",
+   "0,970 / 0,995",
+   "0,968 / 0,998",
+   "0,986 / 1,000",
+   "0,989 / 1,000"
+  ],
+  [
+   "Messi-Q yeniden giriş",
+   "Tekilleştirilmiş rastgele",
+   "37 (6-17)",
+   "0,257 / 0,719",
+   "0,424 / 0,739",
+   "0,336 / 0,757",
+   "0,393 / 0,764"
+  ],
+  [
+   "Messi-Q yeniden giriş",
+   "Klona duyarlı",
+   "22-53 (6-15)",
+   "0,221 / 0,683",
+   "0,332 / 0,766",
+   "0,271 / 0,739",
+   "0,371 / 0,781"
+  ],
+  [
+   "Messi-Q zaman damgası",
+   "Rastgele",
+   "140-146 (53-57)",
+   "1,000 / 1,000",
+   "0,990 / 1,000",
+   "0,981 / 1,000",
+   "0,999 / 1,000"
+  ],
+  [
+   "Messi-Q zaman damgası",
+   "Tekilleştirilmiş rastgele",
+   "30 (8-14)",
+   "0,345 / 0,794",
+   "0,320 / 0,808",
+   "0,241 / 0,725",
+   "0,275 / 0,744"
+  ],
+  [
+   "Messi-Q zaman damgası",
+   "Klona duyarlı",
+   "23-39 (8-17)",
+   "0,132 / 0,616",
+   "0,383 / 0,793",
+   "0,079 / 0,560",
+   "0,291 / 0,714"
+  ]
+ ]
+}

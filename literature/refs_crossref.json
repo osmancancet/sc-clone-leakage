@@ -1,0 +1,6888 @@
+{
+ "luu2016": {
+  "doi": "10.1145/2976749.2978309",
+  "found": true,
+  "meta": {
+   "title": [
+    "Making Smart Contracts Smarter"
+   ],
+   "author": [
+    {
+     "given": "Loi",
+     "family": "Luu",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "National University of Singapore, Singapore, Singapore"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Duc-Hiep",
+     "family": "Chu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "National University of Singapore, Singapore, Singapore"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hrishi",
+     "family": "Olickel",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Yale-NUS College, Singapore, Singapore"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Prateek",
+     "family": "Saxena",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "National University of Singapore, Singapore, Singapore"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Aquinas",
+     "family": "Hobor",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Yale-NUS College &amp; National University of Singapore, Singapore, Singapore"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "254-269",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      10,
+      24
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2016,
+      10,
+      24
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "ACM",
+   "event": {
+    "name": "CCS'16: 2016 ACM SIGSAC Conference on Computer and Communications Security",
+    "location": "Vienna Austria",
+    "acronym": "CCS'16",
+    "sponsor": [
+     "SIGSAC ACM Special Interest Group on Security, Audit, and Control"
+    ]
+   },
+   "DOI": "10.1145/2976749.2978309"
+  }
+ },
+ "tsankov2018": {
+  "doi": "10.1145/3243734.3243780",
+  "found": true,
+  "meta": {
+   "title": [
+    "Securify"
+   ],
+   "author": [
+    {
+     "given": "Petar",
+     "family": "Tsankov",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "ETH Zurich, Zurich, Switzerland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Andrei",
+     "family": "Dan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "ETH Zurich, Zurich, Switzerland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Dana",
+     "family": "Drachsler-Cohen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "ETH Zurich, Zurich, Switzerland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Arthur",
+     "family": "Gervais",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Imperial College London, London, United Kingdom"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Florian",
+     "family": "Bünzli",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "ETH Zurich, Zurich, Switzerland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Martin",
+     "family": "Vechev",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "ETH Zurich, Zurich, Switzerland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "67-82",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      10,
+      15
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2018,
+      10,
+      15
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "ACM",
+   "event": {
+    "name": "CCS '18: 2018 ACM SIGSAC Conference on Computer and Communications Security",
+    "location": "Toronto Canada",
+    "acronym": "CCS '18",
+    "sponsor": [
+     "SIGSAC ACM Special Interest Group on Security, Audit, and Control"
+    ]
+   },
+   "DOI": "10.1145/3243734.3243780"
+  }
+ },
+ "feist2019": {
+  "doi": "10.1109/WETSEB.2019.00008",
+  "found": true,
+  "meta": {
+   "title": [
+    "Slither: A Static Analysis Framework for Smart Contracts"
+   ],
+   "author": [
+    {
+     "given": "Josselin",
+     "family": "Feist",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gustavo",
+     "family": "Grieco",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Alex",
+     "family": "Groce",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2019 IEEE/ACM 2nd International Workshop on Emerging Trends in Software Engineering for Blockchain (WETSEB)"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "8-15",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      5
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2019,
+      5
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "IEEE",
+   "event": {
+    "name": "2019 IEEE/ACM 2nd International Workshop on Emerging Trends in Software Engineering for Blockchain (WETSEB)",
+    "location": "Montreal, QC, Canada",
+    "start": {
+     "date-parts": [
+      [
+       2019,
+       5,
+       27
+      ]
+     ]
+    },
+    "end": {
+     "date-parts": [
+      [
+       2019,
+       5,
+       27
+      ]
+     ]
+    }
+   },
+   "DOI": "10.1109/wetseb.2019.00008"
+  }
+ },
+ "durieux2020": {
+  "doi": "10.1145/3377811.3380364",
+  "found": true,
+  "meta": {
+   "title": [
+    "Empirical review of automated analysis tools on 47,587 Ethereum smart contracts"
+   ],
+   "author": [
+    {
+     "given": "Thomas",
+     "family": "Durieux",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of Lisbon, Portugal"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "João F.",
+     "family": "Ferreira",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Lisbon, Portugal"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rui",
+     "family": "Abreu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Lisbon, Portugal"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Pedro",
+     "family": "Cruz",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Lisbon, Portugal"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "530-541",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      6,
+      27
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2020,
+      6,
+      27
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "ACM",
+   "event": {
+    "name": "ICSE '20: 42nd International Conference on Software Engineering",
+    "location": "Seoul South Korea",
+    "acronym": "ICSE '20",
+    "sponsor": [
+     "SIGSOFT ACM Special Interest Group on Software Engineering",
+     "KIISE Korean Institute of Information Scientists and Engineers",
+     "IEEE CS"
+    ]
+   },
+   "DOI": "10.1145/3377811.3380364"
+  }
+ },
+ "ghaleb2020": {
+  "doi": "10.1145/3395363.3397385",
+  "found": true,
+  "meta": {
+   "title": [
+    "How effective are smart contract analysis tools? evaluating smart contract static analysis tools using bug injection"
+   ],
+   "author": [
+    {
+     "given": "Asem",
+     "family": "Ghaleb",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of British Columbia, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Karthik",
+     "family": "Pattabiraman",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of British Columbia, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Proceedings of the 29th ACM SIGSOFT International Symposium on Software Testing and Analysis"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "415-427",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      7,
+      18
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2020,
+      7,
+      18
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "ACM",
+   "event": {
+    "name": "ISSTA '20: 29th ACM SIGSOFT International Symposium on Software Testing and Analysis",
+    "location": "Virtual Event USA",
+    "acronym": "ISSTA '20",
+    "sponsor": [
+     "SIGSOFT ACM Special Interest Group on Software Engineering"
+    ]
+   },
+   "DOI": "10.1145/3395363.3397385"
+  }
+ },
+ "zhuang2020": {
+  "doi": "10.24963/ijcai.2020/454",
+  "found": true,
+  "meta": {
+   "title": [
+    "Smart Contract Vulnerability Detection using Graph Neural Network"
+   ],
+   "author": [
+    {
+     "given": "Yuan",
+     "family": "Zhuang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Zhejiang Gongshang University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zhenguang",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Zhejiang Gongshang University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Peng",
+     "family": "Qian",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Zhejiang Gongshang University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Qi",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Oxford"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiang",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "National University of Singapore"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Qinming",
+     "family": "He",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Zhejiang University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "3283-3290",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      7
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2020,
+      7
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "International Joint Conferences on Artificial Intelligence Organization",
+   "event": {
+    "name": "Twenty-Ninth International Joint Conference on Artificial Intelligence and Seventeenth Pacific Rim International Conference on Artificial Intelligence {IJCAI-PRICAI-20}",
+    "theme": "Artificial Intelligence",
+    "location": "Yokohama, Japan",
+    "acronym": "IJCAI-PRICAI-2020",
+    "number": "28",
+    "sponsor": [
+     "International Joint Conferences on Artificial Intelligence Organization (IJCAI)"
+    ],
+    "start": {
+     "date-parts": [
+      [
+       2020,
+       7,
+       11
+      ]
+     ]
+    },
+    "end": {
+     "date-parts": [
+      [
+       2020,
+       7,
+       17
+      ]
+     ]
+    }
+   },
+   "DOI": "10.24963/ijcai.2020/454"
+  }
+ },
+ "liu2021tkde": {
+  "doi": "10.1109/TKDE.2021.3095196",
+  "found": true,
+  "meta": {
+   "title": [
+    "Combining Graph Neural Networks with Expert Knowledge for Smart Contract Vulnerability Detection"
+   ],
+   "author": [
+    {
+     "given": "Zhenguang",
+     "family": "Liu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Peng",
+     "family": "Qian",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiaoyang",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yuan",
+     "family": "Zhuang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Lin",
+     "family": "Qiu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xun",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "IEEE Transactions on Knowledge and Data Engineering"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "1-1",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "event": null,
+   "DOI": "10.1109/tkde.2021.3095196"
+  }
+ },
+ "liu2021ijcai": {
+  "doi": "10.24963/ijcai.2021/379",
+  "found": true,
+  "meta": {
+   "title": [
+    "Smart Contract Vulnerability Detection: From Pure Neural Network to Interpretable Graph Feature and Expert Pattern Fusion"
+   ],
+   "author": [
+    {
+     "given": "Zhenguang",
+     "family": "Liu",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Zhejiang University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Peng",
+     "family": "Qian",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Zhejiang University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiang",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "National University of Singapore"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Lei",
+     "family": "Zhu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Shandong Normal Unversity"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Qinming",
+     "family": "He",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Zhejiang University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shouling",
+     "family": "Ji",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Zhejiang University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "2751-2759",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      8
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2021,
+      8
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "International Joint Conferences on Artificial Intelligence Organization",
+   "event": {
+    "name": "Thirtieth International Joint Conference on Artificial Intelligence {IJCAI-21}",
+    "theme": "Artificial Intelligence",
+    "location": "Montreal, Canada",
+    "acronym": "IJCAI-2021",
+    "number": "30",
+    "sponsor": [
+     "International Joint Conferences on Artificial Intelligence Organization (IJCAI)"
+    ],
+    "start": {
+     "date-parts": [
+      [
+       2021,
+       8,
+       19
+      ]
+     ]
+    },
+    "end": {
+     "date-parts": [
+      [
+       2021,
+       8,
+       27
+      ]
+     ]
+    }
+   },
+   "DOI": "10.24963/ijcai.2021/379"
+  }
+ },
+ "qian2020": {
+  "doi": "10.1109/ACCESS.2020.2969429",
+  "found": true,
+  "meta": {
+   "title": [
+    "Towards Automated Reentrancy Detection for Smart Contracts Based on Sequential Models"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-4934-5811",
+     "authenticated-orcid": false,
+     "given": "Peng",
+     "family": "Qian",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zhenguang",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Qinming",
+     "family": "He",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Roger",
+     "family": "Zimmermann",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xun",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "IEEE Access"
+   ],
+   "volume": "8",
+   "issue": null,
+   "page": "19685-19695",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "event": null,
+   "DOI": "10.1109/access.2020.2969429"
+  }
+ },
+ "qian2023": {
+  "doi": "10.1145/3543507.3583367",
+  "found": true,
+  "meta": {
+   "title": [
+    "Cross-Modality Mutual Learning for Enhancing Smart Contract Vulnerability Detection on Bytecode"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-4934-5811",
+     "authenticated-orcid": false,
+     "given": "Peng",
+     "family": "Qian",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Zhejiang University, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7981-9873",
+     "authenticated-orcid": false,
+     "given": "Zhenguang",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Zhejiang University, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6525-6133",
+     "authenticated-orcid": false,
+     "given": "Yifang",
+     "family": "Yin",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute for Infocomm Research, A*STAR, Singapore"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5147-7253",
+     "authenticated-orcid": false,
+     "given": "Qinming",
+     "family": "He",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Zhejiang University, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Proceedings of the ACM Web Conference 2023"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "2220-2229",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      4,
+      30
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2023,
+      4,
+      30
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "ACM",
+   "event": {
+    "name": "WWW '23: The ACM Web Conference 2023",
+    "location": "Austin TX USA",
+    "acronym": "WWW '23",
+    "sponsor": [
+     "SIGWEB ACM Special Interest Group on Hypertext, Hypermedia, and Web"
+    ]
+   },
+   "DOI": "10.1145/3543507.3583367"
+  }
+ },
+ "atzei2017": {
+  "doi": "10.1007/978-3-662-54455-6_8",
+  "found": true,
+  "meta": {
+   "title": [
+    "A Survey of Attacks on Ethereum Smart Contracts (SoK)"
+   ],
+   "author": [
+    {
+     "given": "Nicola",
+     "family": "Atzei",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Massimo",
+     "family": "Bartoletti",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tiziana",
+     "family": "Cimoli",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Lecture Notes in Computer Science",
+    "Principles of Security and Trust"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "164-186",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2017
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2017
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "publisher": "Springer Berlin Heidelberg",
+   "event": null,
+   "DOI": "10.1007/978-3-662-54455-6_8"
+  }
+ },
+ "chen2020csur": {
+  "doi": "10.1145/3391195",
+  "found": true,
+  "meta": {
+   "title": [
+    "A Survey on Ethereum Systems Security"
+   ],
+   "author": [
+    {
+     "given": "Huashan",
+     "family": "Chen",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "The University of Texas at San Antonio, San Antonio, TX, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Marcus",
+     "family": "Pendleton",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "U.S. Air Force Research Laboratory and 90 COS/CYD"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Laurent",
+     "family": "Njilla",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "U.S. Air Force Research Laboratory"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8034-0942",
+     "authenticated-orcid": false,
+     "given": "Shouhuai",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "The University of Texas at San Antonio, San Antonio, TX, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "ACM Computing Surveys"
+   ],
+   "volume": "53",
+   "issue": "3",
+   "page": "1-43",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      6,
+      12
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2020,
+      6,
+      12
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Association for Computing Machinery (ACM)",
+   "event": null,
+   "DOI": "10.1145/3391195"
+  }
+ },
+ "kondo2020": {
+  "doi": "10.1007/s10664-020-09852-5",
+  "found": true,
+  "meta": {
+   "title": [
+    "Code cloning in smart contracts: a case study on verified contracts from the Ethereum blockchain platform"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-6317-7001",
+     "authenticated-orcid": false,
+     "given": "Masanari",
+     "family": "Kondo",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gustavo A.",
+     "family": "Oliva",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zhen Ming",
+     "family": "Jiang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ahmed E.",
+     "family": "Hassan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Osamu",
+     "family": "Mizuno",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Empirical Software Engineering"
+   ],
+   "volume": "25",
+   "issue": "6",
+   "page": "4617-4675",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      9,
+      9
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2020,
+      9,
+      9
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Springer Science and Business Media LLC",
+   "event": null,
+   "DOI": "10.1007/s10664-020-09852-5"
+  }
+ },
+ "he2020": {
+  "doi": "10.1007/978-3-030-51280-4_35",
+  "found": true,
+  "meta": {
+   "title": [
+    "Characterizing Code Clones in the Ethereum Smart Contract Ecosystem"
+   ],
+   "author": [
+    {
+     "given": "Ningyu",
+     "family": "He",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Lei",
+     "family": "Wu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Haoyu",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Yao",
+     "family": "Guo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Xuxian",
+     "family": "Jiang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Lecture Notes in Computer Science",
+    "Financial Cryptography and Data Security"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "654-675",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "publisher": "Springer International Publishing",
+   "event": null,
+   "DOI": "10.1007/978-3-030-51280-4_35"
+  }
+ },
+ "gao2020": {
+  "doi": "10.1109/TSE.2020.2971482",
+  "found": true,
+  "meta": {
+   "title": [
+    "Checking Smart Contracts With Structural Code Embedding"
+   ],
+   "author": [
+    {
+     "given": "Zhipeng",
+     "family": "Gao",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4336-8548",
+     "authenticated-orcid": false,
+     "given": "Lingxiao",
+     "family": "Jiang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6302-3256",
+     "authenticated-orcid": false,
+     "given": "Xin",
+     "family": "Xia",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4367-7201",
+     "authenticated-orcid": false,
+     "given": "David",
+     "family": "Lo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-4928-7076",
+     "authenticated-orcid": false,
+     "given": "John",
+     "family": "Grundy",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "IEEE Transactions on Software Engineering"
+   ],
+   "volume": "47",
+   "issue": "12",
+   "page": "2874-2891",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      12,
+      1
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2021,
+      12,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "event": null,
+   "DOI": "10.1109/tse.2020.2971482"
+  }
+ },
+ "allamanis2019": {
+  "doi": "10.1145/3359591.3359735",
+  "found": true,
+  "meta": {
+   "title": [
+    "The adverse effects of code duplication in machine learning models of code"
+   ],
+   "author": [
+    {
+     "given": "Miltiadis",
+     "family": "Allamanis",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Microsoft Research, UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Proceedings of the 2019 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "143-153",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      10,
+      23
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2019,
+      10,
+      23
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "ACM",
+   "event": {
+    "name": "SPLASH '19: 2019 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications: Software for Humanity",
+    "location": "Athens Greece",
+    "acronym": "SPLASH '19",
+    "sponsor": [
+     "SIGPLAN ACM Special Interest Group on Programming Languages"
+    ]
+   },
+   "DOI": "10.1145/3359591.3359735"
+  }
+ },
+ "lopes2017": {
+  "doi": "10.1145/3133908",
+  "found": true,
+  "meta": {
+   "title": [
+    "DéjàVu: a map of code duplicates on GitHub"
+   ],
+   "author": [
+    {
+     "given": "Cristina V.",
+     "family": "Lopes",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of California at Irvine, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Petr",
+     "family": "Maj",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Czech Technical University, Czechia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Pedro",
+     "family": "Martins",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of California at Irvine, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vaibhav",
+     "family": "Saini",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of California at Irvine, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Di",
+     "family": "Yang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of California at Irvine, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jakub",
+     "family": "Zitny",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Czech Technical University, Czechia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hitesh",
+     "family": "Sajnani",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Microsoft Research, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jan",
+     "family": "Vitek",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Northeastern University, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Proceedings of the ACM on Programming Languages"
+   ],
+   "volume": "1",
+   "issue": "OOPSLA",
+   "page": "1-28",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      10,
+      12
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2017,
+      10,
+      12
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Association for Computing Machinery (ACM)",
+   "event": null,
+   "DOI": "10.1145/3133908"
+  }
+ },
+ "chakraborty2022": {
+  "doi": "10.1109/TSE.2021.3087402",
+  "found": true,
+  "meta": {
+   "title": [
+    "Deep Learning Based Vulnerability Detection: Are We There Yet?"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-6889-7171",
+     "authenticated-orcid": false,
+     "given": "Saikat",
+     "family": "Chakraborty",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Columbia University, New York, NY, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5899-6651",
+     "authenticated-orcid": false,
+     "given": "Rahul",
+     "family": "Krishna",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Columbia University, New York, NY, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3224-6876",
+     "authenticated-orcid": false,
+     "given": "Yangruibo",
+     "family": "Ding",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Columbia University, New York, NY, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3406-5235",
+     "authenticated-orcid": false,
+     "given": "Baishakhi",
+     "family": "Ray",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Columbia University, New York, NY, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "IEEE Transactions on Software Engineering"
+   ],
+   "volume": "48",
+   "issue": "9",
+   "page": "3280-3296",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      9,
+      1
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2022,
+      9,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "event": null,
+   "DOI": "10.1109/tse.2021.3087402"
+  }
+ },
+ "croft2023": {
+  "doi": "10.1109/ICSE48619.2023.00022",
+  "found": true,
+  "meta": {
+   "title": [
+    "Data Quality for Software Vulnerability Datasets"
+   ],
+   "author": [
+    {
+     "given": "Roland",
+     "family": "Croft",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Computer Science, CREST, University of Adelaide,Australia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "M. Ali",
+     "family": "Babar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computer Science, CREST, University of Adelaide,Australia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "M. Mehdi",
+     "family": "Kholoosi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computer Science, CREST, University of Adelaide,Australia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE)"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "121-133",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2023,
+      5
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "IEEE",
+   "event": {
+    "name": "2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE)",
+    "location": "Melbourne, Australia",
+    "start": {
+     "date-parts": [
+      [
+       2023,
+       5,
+       14
+      ]
+     ]
+    },
+    "end": {
+     "date-parts": [
+      [
+       2023,
+       5,
+       20
+      ]
+     ]
+    }
+   },
+   "DOI": "10.1109/icse48619.2023.00022"
+  }
+ },
+ "arp2024": {
+  "doi": "10.1145/3643456",
+  "found": true,
+  "meta": {
+   "title": [
+    "Pitfalls in Machine Learning for Computer Security"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-3628-794X",
+     "authenticated-orcid": false,
+     "given": "Daniel",
+     "family": "Arp",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Technische Universität Berlin, Berlin, Germany"
+      },
+      {
+       "name": "The Berlin Institute for the Foundations of Learning and Data (BIFOLD), Berlin, Germany"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0004-7170-1274",
+     "authenticated-orcid": false,
+     "given": "Erwin",
+     "family": "Quiring",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "International Computer Science Institute (ICSI), Berkeley, USA"
+      },
+      {
+       "name": "Ruhr University Bochum, Bochum, Germany"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1140-322X",
+     "authenticated-orcid": false,
+     "given": "Feargus",
+     "family": "Pendlebury",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University College London, London, England, United Kingdom"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0006-3617-3968",
+     "authenticated-orcid": false,
+     "given": "Alexander",
+     "family": "Warnecke",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Technische Universität Berlin, Berlin, Germany"
+      },
+      {
+       "name": "The Berlin Institute for the Foundations of Learning and Data (BIFOLD), Berlin, Germany"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1254-1758",
+     "authenticated-orcid": false,
+     "given": "Fabio",
+     "family": "Pierazzi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "King’s College London, London, England, United Kingdom"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0007-1493-9552",
+     "authenticated-orcid": false,
+     "given": "Christian",
+     "family": "Wressnegger",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Karlsruhe Institute of Technology, Karlsruhe, Germany"
+      },
+      {
+       "name": "KASTEL Security Research Labs, Karlsruhe, Germany"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3878-2680",
+     "authenticated-orcid": false,
+     "given": "Lorenzo",
+     "family": "Cavallaro",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University College London, London, England, United Kingdom"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5054-8758",
+     "authenticated-orcid": false,
+     "given": "Konrad",
+     "family": "Rieck",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Technische Universität Berlin, Berlin, Germany"
+      },
+      {
+       "name": "The Berlin Institute for the Foundations of Learning and Data (BIFOLD), Berlin, Germany"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Communications of the ACM"
+   ],
+   "volume": "67",
+   "issue": "11",
+   "page": "104-112",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      10,
+      25
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2024,
+      10,
+      25
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Association for Computing Machinery (ACM)",
+   "event": null,
+   "DOI": "10.1145/3643456"
+  }
+ },
+ "kapoor2023": {
+  "doi": "10.1016/j.patter.2023.100804",
+  "found": true,
+  "meta": {
+   "title": [
+    "Leakage and the reproducibility crisis in machine-learning-based science"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5695-280X",
+     "authenticated-orcid": false,
+     "given": "Sayash",
+     "family": "Kapoor",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Arvind",
+     "family": "Narayanan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Patterns"
+   ],
+   "volume": "4",
+   "issue": "9",
+   "page": "100804",
+   "article-number": "100804",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      9
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2023,
+      9
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Elsevier BV",
+   "event": null,
+   "DOI": "10.1016/j.patter.2023.100804"
+  }
+ },
+ "kaufman2012": {
+  "doi": "10.1145/2382577.2382579",
+  "found": true,
+  "meta": {
+   "title": [
+    "Leakage in data mining"
+   ],
+   "author": [
+    {
+     "given": "Shachar",
+     "family": "Kaufman",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Tel Aviv University, Israel"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Saharon",
+     "family": "Rosset",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Tel Aviv University, Israel"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Claudia",
+     "family": "Perlich",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "m6d"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ori",
+     "family": "Stitelman",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "m6d"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "ACM Transactions on Knowledge Discovery from Data"
+   ],
+   "volume": "6",
+   "issue": "4",
+   "page": "1-21",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2012,
+      12
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2012,
+      12
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Association for Computing Machinery (ACM)",
+   "event": null,
+   "DOI": "10.1145/2382577.2382579"
+  }
+ },
+ "nadeau2003": {
+  "doi": "10.1023/A:1024068626366",
+  "found": true,
+  "meta": {
+   "title": [
+    "Inference for the Generalization Error"
+   ],
+   "author": [
+    {
+     "given": "Claude",
+     "family": "Nadeau",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yoshua",
+     "family": "Bengio",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Machine Learning"
+   ],
+   "volume": "52",
+   "issue": "3",
+   "page": "239-281",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2003,
+      9
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2003,
+      9
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Springer Science and Business Media LLC",
+   "event": null,
+   "DOI": "10.1023/a:1024068626366"
+  }
+ },
+ "chicco2020": {
+  "doi": "10.1186/s12864-019-6413-7",
+  "found": true,
+  "meta": {
+   "title": [
+    "The advantages of the Matthews correlation coefficient (MCC) over F1 score and accuracy in binary classification evaluation"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-9655-7142",
+     "authenticated-orcid": false,
+     "given": "Davide",
+     "family": "Chicco",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2705-5728",
+     "authenticated-orcid": false,
+     "given": "Giuseppe",
+     "family": "Jurman",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "BMC Genomics"
+   ],
+   "volume": "21",
+   "issue": "1",
+   "page": null,
+   "article-number": "6",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      1,
+      2
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2020,
+      1,
+      2
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Springer Science and Business Media LLC",
+   "event": null,
+   "DOI": "10.1186/s12864-019-6413-7"
+  }
+ },
+ "saito2015": {
+  "doi": "10.1371/journal.pone.0118432",
+  "found": true,
+  "meta": {
+   "title": [
+    "The Precision-Recall Plot Is More Informative than the ROC Plot When Evaluating Binary Classifiers on Imbalanced Datasets"
+   ],
+   "author": [
+    {
+     "given": "Takaya",
+     "family": "Saito",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Marc",
+     "family": "Rehmsmeier",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "PLOS ONE"
+   ],
+   "volume": "10",
+   "issue": "3",
+   "page": "e0118432",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2015,
+      3,
+      4
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2015,
+      3,
+      4
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Public Library of Science (PLoS)",
+   "event": null,
+   "DOI": "10.1371/journal.pone.0118432"
+  }
+ },
+ "broder1997": {
+  "doi": "10.1109/SEQUEN.1997.666900",
+  "found": true,
+  "meta": {
+   "title": [
+    "On the resemblance and containment of documents"
+   ],
+   "author": [
+    {
+     "given": "A.Z.",
+     "family": "Broder",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Proceedings. Compression and Complexity of SEQUENCES 1997 (Cat. No.97TB100171)"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "21-29",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      1997
+     ]
+    ]
+   },
+   "published": null,
+   "type": "proceedings-article",
+   "publisher": "IEEE Comput. Soc",
+   "event": {
+    "name": "Compression and Complexity of SEQUENCES 1997",
+    "location": "Salerno, Italy",
+    "acronym": "SEQUEN-97"
+   },
+   "DOI": "10.1109/sequen.1997.666900"
+  },
+  "note": "Crossref issued date is null; year 1997 taken from the event (Compression and Complexity of SEQUENCES 1997) and the DOI record."
+ },
+ "roy2009": {
+  "doi": "10.1016/j.scico.2009.02.007",
+  "found": true,
+  "meta": {
+   "title": [
+    "Comparison and evaluation of code clone detection techniques and tools: A qualitative approach"
+   ],
+   "author": [
+    {
+     "given": "Chanchal K.",
+     "family": "Roy",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "James R.",
+     "family": "Cordy",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rainer",
+     "family": "Koschke",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Science of Computer Programming"
+   ],
+   "volume": "74",
+   "issue": "7",
+   "page": "470-495",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2009,
+      5
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2009,
+      5
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Elsevier BV",
+   "event": null,
+   "DOI": "10.1016/j.scico.2009.02.007"
+  }
+ },
+ "kim2014": {
+  "doi": "10.3115/v1/D14-1181",
+  "found": true,
+  "meta": {
+   "title": [
+    "Convolutional Neural Networks for Sentence Classification"
+   ],
+   "author": [
+    {
+     "given": "Yoon",
+     "family": "Kim",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "1746-1751",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2014
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2014
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "Association for Computational Linguistics",
+   "event": {
+    "name": "Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    "location": "Doha, Qatar",
+    "start": {
+     "date-parts": [
+      [
+       2014,
+       10
+      ]
+     ]
+    },
+    "end": {
+     "date-parts": [
+      [
+       2014,
+       10
+      ]
+     ]
+    }
+   },
+   "DOI": "10.3115/v1/d14-1181"
+  }
+ },
+ "feng2020": {
+  "doi": "10.18653/v1/2020.findings-emnlp.139",
+  "found": true,
+  "meta": {
+   "title": [
+    "CodeBERT: A Pre-Trained Model for Programming and Natural Languages"
+   ],
+   "author": [
+    {
+     "given": "Zhangyin",
+     "family": "Feng",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Daya",
+     "family": "Guo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Duyu",
+     "family": "Tang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nan",
+     "family": "Duan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiaocheng",
+     "family": "Feng",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ming",
+     "family": "Gong",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Linjun",
+     "family": "Shou",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bing",
+     "family": "Qin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ting",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Daxin",
+     "family": "Jiang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ming",
+     "family": "Zhou",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Findings of the Association for Computational Linguistics: EMNLP 2020"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "1536-1547",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "Association for Computational Linguistics",
+   "event": {
+    "name": "Findings of the Association for Computational Linguistics: EMNLP 2020",
+    "location": "Online",
+    "start": {
+     "date-parts": [
+      [
+       2020,
+       11
+      ]
+     ]
+    },
+    "end": {
+     "date-parts": [
+      [
+       2020,
+       11
+      ]
+     ]
+    }
+   },
+   "DOI": "10.18653/v1/2020.findings-emnlp.139"
+  }
+ },
+ "lee2022": {
+  "doi": "10.18653/v1/2022.acl-long.577",
+  "found": true,
+  "meta": {
+   "title": [
+    "Deduplicating Training Data Makes Language Models Better"
+   ],
+   "author": [
+    {
+     "given": "Katherine",
+     "family": "Lee",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Daphne",
+     "family": "Ippolito",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Andrew",
+     "family": "Nystrom",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Chiyuan",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Douglas",
+     "family": "Eck",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Chris",
+     "family": "Callison-Burch",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nicholas",
+     "family": "Carlini",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "8424-8445",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "Association for Computational Linguistics",
+   "event": {
+    "name": "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "location": "Dublin, Ireland",
+    "start": {
+     "date-parts": [
+      [
+       2022,
+       5
+      ]
+     ]
+    },
+    "end": {
+     "date-parts": [
+      [
+       2022,
+       5
+      ]
+     ]
+    }
+   },
+   "DOI": "10.18653/v1/2022.acl-long.577"
+  }
+ },
+ "sun2024": {
+  "doi": "10.1145/3597503.3639117",
+  "found": true,
+  "meta": {
+   "title": [
+    "GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-4340-3371",
+     "authenticated-orcid": false,
+     "given": "Yuqiang",
+     "family": "Sun",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Computer Science and Engineering, Nanyang Technological University, Singapore, Singapore"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3752-0718",
+     "authenticated-orcid": false,
+     "given": "Daoyuan",
+     "family": "Wu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computer Science and Engineering, Nanyang Technological University, Singapore, Singapore"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0004-2141-2044",
+     "authenticated-orcid": false,
+     "given": "Yue",
+     "family": "Xue",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "MetaTrust Labs, Singapore, Singapore"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0000-8384-7933",
+     "authenticated-orcid": false,
+     "given": "Han",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, Shanghai, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0001-3509-3919",
+     "authenticated-orcid": false,
+     "given": "Haijun",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Xi'an Jiaotong University, Xi'an, Shanxi, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8390-7518",
+     "authenticated-orcid": false,
+     "given": "Zhengzi",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computer Science and Engineering, Nanyang Technological University, Singapore, Singapore"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1288-6502",
+     "authenticated-orcid": false,
+     "given": "Xiaofei",
+     "family": "Xie",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Singapore Management University, Singapore, Singapore"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-7300-9215",
+     "authenticated-orcid": false,
+     "given": "Yang",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computer Science and Engineering, Nanyang Technological University, Singapore, Singapore"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Proceedings of the IEEE/ACM 46th International Conference on Software Engineering"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "1-13",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      4,
+      12
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2024,
+      4,
+      12
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "ACM",
+   "event": {
+    "name": "ICSE '24: IEEE/ACM 46th International Conference on Software Engineering",
+    "location": "Lisbon Portugal",
+    "acronym": "ICSE '24",
+    "sponsor": [
+     "SIGSOFT ACM Special Interest Group on Software Engineering",
+     "IEEE CS",
+     "Faculty of Engineering of University of Porto"
+    ]
+   },
+   "DOI": "10.1145/3597503.3639117"
+  }
+ },
+ "chu2023": {
+  "doi": "10.1016/j.infsof.2023.107221",
+  "found": true,
+  "meta": {
+   "title": [
+    "A survey on smart contract vulnerabilities: Data sources, detection and repair"
+   ],
+   "author": [
+    {
+     "given": "Hanting",
+     "family": "Chu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Pengcheng",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hai",
+     "family": "Dong",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yan",
+     "family": "Xiao",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shunhui",
+     "family": "Ji",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Wenrui",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Information and Software Technology"
+   ],
+   "volume": "159",
+   "issue": null,
+   "page": "107221",
+   "article-number": "107221",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      7
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2023,
+      7
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Elsevier BV",
+   "event": null,
+   "DOI": "10.1016/j.infsof.2023.107221"
+  }
+ },
+ "kushwaha2022": {
+  "doi": "10.1109/ACCESS.2022.3169902",
+  "found": true,
+  "meta": {
+   "title": [
+    "Ethereum Smart Contract Analysis Tools: A Systematic Review"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-4292-5066",
+     "authenticated-orcid": false,
+     "given": "Satpal Singh",
+     "family": "Kushwaha",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Engineering, Manipal University Jaipur, Jaipur, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9127-5947",
+     "authenticated-orcid": false,
+     "given": "Sandeep",
+     "family": "Joshi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Engineering, Manipal University Jaipur, Jaipur, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6475-4491",
+     "authenticated-orcid": false,
+     "given": "Dilbag",
+     "family": "Singh",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Electrical Engineering and Computer Science, Gwangju Institute of Science and Technology, Gwangju, South Korea"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8804-9172",
+     "authenticated-orcid": false,
+     "given": "Manjit",
+     "family": "Kaur",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Electrical Engineering and Computer Science, Gwangju Institute of Science and Technology, Gwangju, South Korea"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8528-5778",
+     "authenticated-orcid": false,
+     "given": "Heung-No",
+     "family": "Lee",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Electrical Engineering and Computer Science, Gwangju Institute of Science and Technology, Gwangju, South Korea"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "IEEE Access"
+   ],
+   "volume": "10",
+   "issue": null,
+   "page": "57037-57062",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "event": null,
+   "DOI": "10.1109/access.2022.3169902"
+  }
+ },
+ "zou2021": {
+  "doi": "10.1109/TSE.2019.2942301",
+  "found": true,
+  "meta": {
+   "title": [
+    "Smart Contract Development: Challenges and Opportunities"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-0913-1539",
+     "authenticated-orcid": false,
+     "given": "Weiqin",
+     "family": "Zou",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4367-7201",
+     "authenticated-orcid": false,
+     "given": "David",
+     "family": "Lo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4342-6672",
+     "authenticated-orcid": false,
+     "given": "Pavneet Singh",
+     "family": "Kochhar",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xuan-Bach Dinh",
+     "family": "Le",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6302-3256",
+     "authenticated-orcid": false,
+     "given": "Xin",
+     "family": "Xia",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yang",
+     "family": "Feng",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9592-7022",
+     "authenticated-orcid": false,
+     "given": "Zhenyu",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-7743-1296",
+     "authenticated-orcid": false,
+     "given": "Baowen",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "IEEE Transactions on Software Engineering"
+   ],
+   "volume": "47",
+   "issue": "10",
+   "page": "2084-2106",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      10,
+      1
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2021,
+      10,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "event": null,
+   "DOI": "10.1109/tse.2019.2942301"
+  }
+ },
+ "deng2023": {
+  "doi": "10.3390/s23167246",
+  "found": true,
+  "meta": {
+   "title": [
+    "Smart Contract Vulnerability Detection Based on Deep Learning and Multimodal Decision Fusion"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-4623-6241",
+     "authenticated-orcid": false,
+     "given": "Weichu",
+     "family": "Deng",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Institute of Artificial Intelligence and Blockchain, Guangzhou University, Guangzhou 510006, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Huanchun",
+     "family": "Wei",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Beidou, Guangxi University of Information Engineering, Nanning 530299, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Teng",
+     "family": "Huang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Artificial Intelligence and Blockchain, Guangzhou University, Guangzhou 510006, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Cong",
+     "family": "Cao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Artificial Intelligence and Blockchain, Guangzhou University, Guangzhou 510006, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yun",
+     "family": "Peng",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Artificial Intelligence and Blockchain, Guangzhou University, Guangzhou 510006, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xuan",
+     "family": "Hu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Information Security Research Center, CEPREI Laboratory, Guangzhou 510610, China"
+      },
+      {
+       "name": "Key Laboratory of Ministry of Industry and Information Technology, Guangzhou 510610, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Sensors"
+   ],
+   "volume": "23",
+   "issue": "16",
+   "page": "7246",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      8,
+      18
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2023,
+      8,
+      18
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "MDPI AG",
+   "event": null,
+   "DOI": "10.3390/s23167246"
+  }
+ },
+ "li2023": {
+  "doi": "10.3390/math11234823",
+  "found": true,
+  "meta": {
+   "title": [
+    "A Smart Contract Vulnerability Detection Method Based on Multimodal Feature Fusion and Deep Learning"
+   ],
+   "author": [
+    {
+     "given": "Jinggang",
+     "family": "Li",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Information Science, Yunnan University, Kunming 650500, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gehao",
+     "family": "Lu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Information Science, Yunnan University, Kunming 650500, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yulian",
+     "family": "Gao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Information Science, Yunnan University, Kunming 650500, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Feng",
+     "family": "Gao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Yunnan Provincial Health and Medical Big Data Center, Kunming 650500, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Mathematics"
+   ],
+   "volume": "11",
+   "issue": "23",
+   "page": "4823",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      11,
+      29
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2023,
+      11,
+      29
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "MDPI AG",
+   "event": null,
+   "DOI": "10.3390/math11234823"
+  }
+ },
+ "liu2023": {
+  "doi": "10.1109/access.2023.3298048",
+  "found": true,
+  "meta": {
+   "title": [
+    "A Smart Contract Vulnerability Detection Mechanism Based on Deep Learning and Expert Rules"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-7466-4622",
+     "authenticated-orcid": false,
+     "given": "Zhenpeng",
+     "family": "Liu",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Information Technology Center, Hebei University, Baoding, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mingxiao",
+     "family": "Jiang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Cyber Security and Computer, Hebei University, Baoding, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shengcong",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Cyber Security and Computer, Hebei University, Baoding, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jialiang",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Cyber Security and Computer, Hebei University, Baoding, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yi",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Information Technology Center, Hebei University, Baoding, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "IEEE Access"
+   ],
+   "volume": "11",
+   "issue": null,
+   "page": "77990-77999",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "event": null,
+   "DOI": "10.1109/access.2023.3298048"
+  }
+ },
+ "ma2023": {
+  "doi": "10.1186/s13677-023-00459-x",
+  "found": true,
+  "meta": {
+   "title": [
+    "HGAT: smart contract vulnerability detection method based on hierarchical graph attention network"
+   ],
+   "author": [
+    {
+     "given": "Chuang",
+     "family": "Ma",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shuaiwu",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Guangxia",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Cloud Computing"
+   ],
+   "volume": "12",
+   "issue": "1",
+   "page": null,
+   "article-number": "93",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      6,
+      22
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2023,
+      6,
+      22
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Springer Science and Business Media LLC",
+   "event": null,
+   "DOI": "10.1186/s13677-023-00459-x"
+  }
+ },
+ "zhen2024": {
+  "doi": "10.1016/j.comnet.2024.110238",
+  "found": true,
+  "meta": {
+   "title": [
+    "DA-GNN: A smart contract vulnerability detection method based on Dual Attention Graph Neural Network"
+   ],
+   "author": [
+    {
+     "given": "Zixian",
+     "family": "Zhen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5870-5730",
+     "authenticated-orcid": false,
+     "given": "Xiangfu",
+     "family": "Zhao",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jinkai",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7189-3163",
+     "authenticated-orcid": false,
+     "given": "Yichen",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Haiyue",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Computer Networks"
+   ],
+   "volume": "242",
+   "issue": null,
+   "page": "110238",
+   "article-number": "110238",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      4
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2024,
+      4
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Elsevier BV",
+   "event": null,
+   "DOI": "10.1016/j.comnet.2024.110238"
+  }
+ },
+ "wang2024": {
+  "doi": "10.1109/tnse.2024.3470788",
+  "found": true,
+  "meta": {
+   "title": [
+    "ContractGNN: Ethereum Smart Contract Vulnerability Detection Based on Vulnerability Sub-Graphs and Graph Neural Networks"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-7189-3163",
+     "authenticated-orcid": false,
+     "given": "Yichen",
+     "family": "Wang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Computer and Control Engineering, Yantai University, Yantai, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5870-5730",
+     "authenticated-orcid": false,
+     "given": "Xiangfu",
+     "family": "Zhao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computer and Control Engineering, Yantai University, Yantai, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9539-6209",
+     "authenticated-orcid": false,
+     "given": "Long",
+     "family": "He",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computer and Control Engineering, Yantai University, Yantai, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zixian",
+     "family": "Zhen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computer and Control Engineering, Yantai University, Yantai, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Haiyue",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computer and Control Engineering, Yantai University, Yantai, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "IEEE Transactions on Network Science and Engineering"
+   ],
+   "volume": "11",
+   "issue": "6",
+   "page": "6382-6395",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      11
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2024,
+      11
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "event": null,
+   "DOI": "10.1109/tnse.2024.3470788"
+  }
+ },
+ "guo2024": {
+  "doi": "10.3390/electronics13030489",
+  "found": true,
+  "meta": {
+   "title": [
+    "Smart Contract Vulnerability Detection Based on Multi-Scale Encoders"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-7146-1117",
+     "authenticated-orcid": false,
+     "given": "Junjun",
+     "family": "Guo",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Computer Science and Engineering, Xi’an Technological University, Xi’an 710021, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Long",
+     "family": "Lu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computer Science and Engineering, Xi’an Technological University, Xi’an 710021, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jingkui",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computer Science and Engineering, Xi’an Technological University, Xi’an 710021, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Electronics"
+   ],
+   "volume": "13",
+   "issue": "3",
+   "page": "489",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      1,
+      24
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2024,
+      1,
+      24
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "MDPI AG",
+   "event": null,
+   "DOI": "10.3390/electronics13030489"
+  }
+ },
+ "zhang2024": {
+  "doi": "10.3390/electronics13183786",
+  "found": true,
+  "meta": {
+   "title": [
+    "A Smart Contract Vulnerability Detection Method Based on Heterogeneous Contract Semantic Graphs and Pre-Training Techniques"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0008-7065-7653",
+     "authenticated-orcid": false,
+     "given": "Jie",
+     "family": "Zhang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Information Science and Engineering, Yunnan University, Kunming 650500, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gehao",
+     "family": "Lu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Information Science and Engineering, Yunnan University, Kunming 650500, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jia",
+     "family": "Yu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Information Science and Engineering, Yunnan University, Kunming 650500, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Electronics"
+   ],
+   "volume": "13",
+   "issue": "18",
+   "page": "3786",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      9,
+      23
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2024,
+      9,
+      23
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "MDPI AG",
+   "event": null,
+   "DOI": "10.3390/electronics13183786"
+  }
+ },
+ "cai2024": {
+  "doi": "10.1016/j.jss.2023.111919",
+  "found": true,
+  "meta": {
+   "title": [
+    "Fine-grained smart contract vulnerability detection by heterogeneous code feature learning and automated dataset construction"
+   ],
+   "author": [
+    {
+     "given": "Jie",
+     "family": "Cai",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bin",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6272-4069",
+     "authenticated-orcid": false,
+     "given": "Tao",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jiale",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiaobing",
+     "family": "Sun",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Systems and Software"
+   ],
+   "volume": "209",
+   "issue": null,
+   "page": "111919",
+   "article-number": "111919",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      3
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2024,
+      3
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Elsevier BV",
+   "event": null,
+   "DOI": "10.1016/j.jss.2023.111919"
+  }
+ },
+ "lian2025": {
+  "doi": "10.1002/spe.3427",
+  "found": true,
+  "meta": {
+   "title": [
+    "SNOW: An Effective Smart Contract Reentrancy Vulnerability Detection Method Based on Joint Feature Graph and Hybrid Graph Neural Network"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-5339-1303",
+     "authenticated-orcid": false,
+     "given": "Wenjuan",
+     "family": "Lian",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "College of Computer Science and Engineering Shandong University of Science and Technology  Qingdao China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0008-9546-0574",
+     "authenticated-orcid": false,
+     "given": "Xinze",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Computer Science and Engineering Shandong University of Science and Technology  Qingdao China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zikang",
+     "family": "Bao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Computer Science and Engineering Shandong University of Science and Technology  Qingdao China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bin",
+     "family": "Jia",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Computer Science and Engineering Shandong University of Science and Technology  Qingdao China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Software: Practice and Experience"
+   ],
+   "volume": "55",
+   "issue": "8",
+   "page": "1361-1376",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      4,
+      22
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2025,
+      4,
+      22
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Wiley",
+   "event": null,
+   "DOI": "10.1002/spe.3427"
+  }
+ },
+ "liang2025": {
+  "doi": "10.3390/app151910844",
+  "found": true,
+  "meta": {
+   "title": [
+    "Contract-Graph Fusion and Cross-Graph Matching for Smart-Contract Vulnerability Detection"
+   ],
+   "author": [
+    {
+     "given": "Xue",
+     "family": "Liang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Computer Science, China University of Geosciences, Wuhan 430074, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yao",
+     "family": "Tan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computer Science, China University of Geosciences, Wuhan 430074, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3820-7632",
+     "authenticated-orcid": false,
+     "given": "Jun",
+     "family": "Song",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computer Science, China University of Geosciences, Wuhan 430074, China"
+      },
+      {
+       "name": "School of Computing, Newcastle University, Urban Science Building, Newcastle upon Tyne NE4 5TG, UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5329-081X",
+     "authenticated-orcid": false,
+     "given": "Fan",
+     "family": "Yang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computer Science, China University of Geosciences, Wuhan 430074, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Applied Sciences"
+   ],
+   "volume": "15",
+   "issue": "19",
+   "page": "10844",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      10,
+      9
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2025,
+      10,
+      9
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "MDPI AG",
+   "event": null,
+   "DOI": "10.3390/app151910844"
+  }
+ },
+ "alhayani2025": {
+  "doi": "10.3390/technologies13120592",
+  "found": true,
+  "meta": {
+   "title": [
+    "A Comparative Study of Machine and Deep Learning Approaches for Smart Contract Vulnerability Detection"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-6558-9328",
+     "authenticated-orcid": false,
+     "given": "Mohammed Yaseen",
+     "family": "Alhayani",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Software, Information Technology College, Ninevah University, Mosul 41001, Iraq"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3100-814X",
+     "authenticated-orcid": false,
+     "given": "Wisam Hazim",
+     "family": "Gwad",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Artificial Intelligence Technology, College of Technical Engineering, Alnoor University, Mosul 41012, Iraq"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7362-4653",
+     "authenticated-orcid": false,
+     "given": "Shahab Wahhab",
+     "family": "Kareem",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Artificial Intelligence and Robotics Engineering, Technical College of Computer and Informatics Engineering, Erbil Polytechnic University, Erbil 44001, Iraq"
+      },
+      {
+       "name": "Department of Information Technology, College of Engineering and Computer Science, Lebanese French University, Erbil 44001, Iraq"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9509-4681",
+     "authenticated-orcid": false,
+     "given": "Moustafa",
+     "family": "Fayad",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Université Marie et Louis Pasteur, SINERGIES (UR 4662), 25030 Besançon, France"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Technologies"
+   ],
+   "volume": "13",
+   "issue": "12",
+   "page": "592",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      16
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      16
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "MDPI AG",
+   "event": null,
+   "DOI": "10.3390/technologies13120592"
+  }
+ },
+ "mandana2025": {
+  "doi": "10.3390/electronics14163226",
+  "found": true,
+  "meta": {
+   "title": [
+    "EVuLLM: Ethereum Smart Contract Vulnerability Detection Using Large Language Models"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0001-7219-3775",
+     "authenticated-orcid": false,
+     "given": "Eleni",
+     "family": "Mandana",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Informatics, Aristotle University of Thessaloniki, 54124 Thessaloniki, Greece"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8141-0276",
+     "authenticated-orcid": false,
+     "given": "George",
+     "family": "Vlahavas",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Informatics, Aristotle University of Thessaloniki, 54124 Thessaloniki, Greece"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-0666-6984",
+     "authenticated-orcid": false,
+     "given": "Athena",
+     "family": "Vakali",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Informatics, Aristotle University of Thessaloniki, 54124 Thessaloniki, Greece"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Electronics"
+   ],
+   "volume": "14",
+   "issue": "16",
+   "page": "3226",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      8,
+      14
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2025,
+      8,
+      14
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "MDPI AG",
+   "event": null,
+   "DOI": "10.3390/electronics14163226"
+  }
+ },
+ "hu2023": {
+  "doi": "10.1109/tps-isa58951.2023.00044",
+  "found": true,
+  "meta": {
+   "title": [
+    "Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives"
+   ],
+   "author": [
+    {
+     "given": "Sihao",
+     "family": "Hu",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Computer Science, Georgia Institute of Technology,Atlanta,GA,United States,30332"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tiansheng",
+     "family": "Huang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computer Science, Georgia Institute of Technology,Atlanta,GA,United States,30332"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Fatih",
+     "family": "İlhan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computer Science, Georgia Institute of Technology,Atlanta,GA,United States,30332"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Selim Furkan",
+     "family": "Tekin",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computer Science, Georgia Institute of Technology,Atlanta,GA,United States,30332"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ling",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computer Science, Georgia Institute of Technology,Atlanta,GA,United States,30332"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2023 5th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA)"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "297-306",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      11,
+      1
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2023,
+      11,
+      1
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "IEEE",
+   "event": {
+    "name": "2023 5th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA)",
+    "location": "Atlanta, GA, USA",
+    "start": {
+     "date-parts": [
+      [
+       2023,
+       11,
+       1
+      ]
+     ]
+    },
+    "end": {
+     "date-parts": [
+      [
+       2023,
+       11,
+       4
+      ]
+     ]
+    }
+   },
+   "DOI": "10.1109/tps-isa58951.2023.00044"
+  }
+ },
+ "boi2024": {
+  "doi": "10.1145/3687251.3687253",
+  "found": true,
+  "meta": {
+   "title": [
+    "Smart Contract Vulnerability Detection: The Role of Large Language Model (LLM)"
+   ],
+   "author": [
+    {
+     "given": "Biagio",
+     "family": "Boi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of Salerno, Fisciano, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Christian",
+     "family": "Esposito",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Salerno, Fisciano, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sokjoon",
+     "family": "Lee",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Gachon University, Seongnam-si, Republic of Korea"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "ACM SIGAPP Applied Computing Review"
+   ],
+   "volume": "24",
+   "issue": "2",
+   "page": "19-29",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      6
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2024,
+      6
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Association for Computing Machinery (ACM)",
+   "event": null,
+   "DOI": "10.1145/3687251.3687253"
+  }
+ },
+ "alsunaidi2026": {
+  "doi": "10.1038/s41597-026-07025-5",
+  "found": true,
+  "meta": {
+   "title": [
+    "DIVE: A Multi-Label Smart Contract Vulnerability Dataset"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-8262-5025",
+     "authenticated-orcid": false,
+     "given": "Shikah J.",
+     "family": "Alsunaidi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2146-9348",
+     "authenticated-orcid": false,
+     "given": "Hamoud",
+     "family": "Aljamaan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mohammad",
+     "family": "Hammoudeh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Scientific Data"
+   ],
+   "volume": "13",
+   "issue": "1",
+   "page": null,
+   "article-number": "664",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      12
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      12
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Springer Science and Business Media LLC",
+   "event": null,
+   "DOI": "10.1038/s41597-026-07025-5"
+  }
+ },
+ "biascorr2026": {
+  "doi": "10.1109/icosics70095.2026.11746875",
+  "found": true,
+  "meta": {
+   "title": [
+    "A Bias-Corrected Dataset Construction Framework for Machine Learning-Based Smart Contract Vulnerability Detection"
+   ],
+   "author": [
+    {
+     "given": "Dharshan Kumar",
+     "family": "J",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of CST, Karunya Institute of Tech. and Sci.",
+       "place": [
+        "Coimbatore, India"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Srija",
+     "family": "J",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of CST, Karunya Institute of Tech. and Sci.",
+       "place": [
+        "Coimbatore, India"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shivanthana",
+     "family": "S",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of CST, Karunya Institute of Tech. and Sci.",
+       "place": [
+        "Coimbatore, India"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2026 International Conference on Secure IoT and Cybersecurity (ICOSICS)"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "1436-1442",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      9
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2026,
+      9
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "IEEE",
+   "event": {
+    "name": "2026 International Conference on Secure IoT and Cybersecurity (ICOSICS)",
+    "location": "Bengaluru, India",
+    "start": {
+     "date-parts": [
+      [
+       2026,
+       9,
+       23
+      ]
+     ]
+    },
+    "end": {
+     "date-parts": [
+      [
+       2026,
+       9,
+       25
+      ]
+     ]
+    }
+   },
+   "DOI": "10.1109/icosics70095.2026.11746875"
+  }
+ },
+ "demir2023": {
+  "doi": "10.1109/isas60782.2023.10391797",
+  "found": true,
+  "meta": {
+   "title": [
+    "Ethereum Blockchain Smart Contract Vulnerability Detection Using Deep Learning"
+   ],
+   "author": [
+    {
+     "given": "Huseyin Okan",
+     "family": "Demir",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Izmir Institute of Technology,Electrical and Electronics Engineering,Izmir,Turkey"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sule Zeynep",
+     "family": "Parlat",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Izmir Institute of Technology,Electrical and Electronics Engineering,Izmir,Turkey"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Abdurrahman",
+     "family": "Gumus",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Izmir Institute of Technology,Electrical and Electronics Engineering,Izmir,Turkey"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2023 7th International Symposium on Innovative Approaches in Smart Technologies (ISAS)"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "1-5",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      11,
+      23
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2023,
+      11,
+      23
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "IEEE",
+   "event": {
+    "name": "2023 7th International Symposium on Innovative Approaches in Smart Technologies (ISAS)",
+    "location": "Istanbul, Turkiye",
+    "start": {
+     "date-parts": [
+      [
+       2023,
+       11,
+       23
+      ]
+     ]
+    },
+    "end": {
+     "date-parts": [
+      [
+       2023,
+       11,
+       25
+      ]
+     ]
+    }
+   },
+   "DOI": "10.1109/isas60782.2023.10391797"
+  }
+ },
+ "song2025": {
+  "doi": "10.14722/ndss.2025.230167",
+  "found": true,
+  "meta": {
+   "title": [
+    "Silence False Alarms: Identifying Anti-Reentrancy Patterns on Ethereum to Refine Smart Contract Reentrancy Detection"
+   ],
+   "author": [
+    {
+     "given": "Qiyang",
+     "family": "Song",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Heqing",
+     "family": "Huang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiaoqi",
+     "family": "Jia",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yuanbo",
+     "family": "Xie",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jiahao",
+     "family": "Cao",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Proceedings 2025 Network and Distributed System Security Symposium"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "Internet Society",
+   "event": {
+    "name": "Network and Distributed System Security Symposium",
+    "location": "San Diego, CA, USA",
+    "acronym": "NDSS 2025",
+    "number": "32",
+    "sponsor": [
+     "Internet Society"
+    ]
+   },
+   "DOI": "10.14722/ndss.2025.230167"
+  }
+ },
+ "kilim2026": {
+  "doi": "10.57120/yalvac.2001116",
+  "found": true,
+  "meta": {
+   "title": [
+    "Leakage-Aware Cross-Dataset Evaluation of Prompt Injection Detection Using Classical Machine Learning and Transformer Models"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-3365-7327",
+     "authenticated-orcid": false,
+     "given": "Oğuzhan",
+     "family": "Kilim",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ, KEÇİBORLU MESLEK YÜKSEKOKULU"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Yalvaç Akademi Dergisi"
+   ],
+   "volume": "11",
+   "issue": "1",
+   "page": "102-131",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      9,
+      2
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2026,
+      9,
+      2
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Isparta Uygulamali Bilimler Universitesi",
+   "event": null,
+   "DOI": "10.57120/yalvac.2001116"
+  }
+ },
+ "cetlenbik2026": {
+  "doi": "10.3390/app16168274",
+  "found": true,
+  "meta": {
+   "title": [
+    "TurkPhish v2: A Template-Composed Generation Matrix for Turkish Phishing E-Mail Corpora, with a Leakage Audit and a Detection Benchmark"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0000-6561-1943",
+     "authenticated-orcid": false,
+     "given": "Osman Can",
+     "family": "Çetlenbik",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Big Data Analyst Program, Manisa Technical Sciences Vocational School, Manisa Celal Bayar University, Manisa 45140, Türkiye"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5871-1652",
+     "authenticated-orcid": false,
+     "given": "Ahmet Ali",
+     "family": "Süzen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Engineering, Faculty of Technology, Isparta University of Applied Sciences, Isparta 32200, Türkiye"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Applied Sciences"
+   ],
+   "volume": "16",
+   "issue": "16",
+   "page": "8274",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      8,
+      19
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2026,
+      8,
+      19
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "MDPI AG",
+   "event": null,
+   "DOI": "10.3390/app16168274"
+  }
+ },
+ "dicle2026": {
+  "doi": "10.24012/dumf.1838519",
+  "found": true,
+  "meta": {
+   "title": [
+    "Akıllı Kontrat Geliştirme Süreçlerinde Yapay Zekanın Rolü: Kapsamlı ve Sistematik Bir Literatür Taraması"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-4915-4970",
+     "authenticated-orcid": false,
+     "given": "Buğra",
+     "family": "Ayan",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "T.C. CUMHURBAŞKANLIĞI"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6198-2819",
+     "authenticated-orcid": false,
+     "given": "Mutlu Tahsin",
+     "family": "Üstündağ",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "GAZİ ÜNİVERSİTESİ"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Dicle Üniversitesi Mühendislik Fakültesi Mühendislik Dergisi"
+   ],
+   "volume": "17",
+   "issue": "2",
+   "page": null,
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      7,
+      28
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2026,
+      7,
+      28
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Dicle Universitesi Muhendislik Fakultesi Muhendislik Dergisi",
+   "event": null,
+   "DOI": "10.24012/dumf.1838519"
+  }
+ },
+ "erzincan2023": {
+  "doi": "10.18185/erzifbed.1105551",
+  "found": true,
+  "meta": {
+   "title": [
+    "Smart Contract Security Vulnerabilities",
+    "Akıllı Sözleşme Güvenlik Zaafiyetleri"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-7741-7715",
+     "authenticated-orcid": true,
+     "given": "Ruhi",
+     "family": "TAŞ",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Türkiye Radyo Televizyon Kurumu"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Erzincan Üniversitesi Fen Bilimleri Enstitüsü Dergisi"
+   ],
+   "volume": "16",
+   "issue": "1",
+   "page": "196-211",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      3,
+      31
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2023,
+      3,
+      31
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Erzincan Universitesi Fen Bilimleri Ensitusu Dergisi",
+   "event": null,
+   "DOI": "10.18185/erzifbed.1105551"
+  }
+ },
+ "gazibtd2023": {
+  "doi": "10.17671/gazibtd.1161180",
+  "found": true,
+  "meta": {
+   "title": [
+    "Blok Zinciri Tabanlı Akademik Tavsiye Mektubu Sistemi Modeli",
+    "Blockchain Based Academic Letter of Recommendation System Model"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-3461-0072",
+     "authenticated-orcid": true,
+     "given": "Caner",
+     "family": "DEMİR",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "GAZİ ÜNİVERSİTESİ"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6627-3381",
+     "authenticated-orcid": true,
+     "given": "Doç. Dr. Selçuk",
+     "family": "ÖZDEMİR",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "GAZİ ÜNİVERSİTESİ, GAZİ EĞİTİM FAKÜLTESİ"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Bilişim Teknolojileri Dergisi"
+   ],
+   "volume": "16",
+   "issue": "1",
+   "page": "67-81",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      1,
+      31
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2023,
+      1,
+      31
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "International Journal of Informatics Technologies",
+   "event": null,
+   "DOI": "10.17671/gazibtd.1161180"
+  }
+ },
+ "chen2023diversevul": {
+  "doi": "10.1145/3607199.3607242",
+  "found": true,
+  "meta": {
+   "title": [
+    "DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-2019-5955",
+     "authenticated-orcid": false,
+     "given": "Yizheng",
+     "family": "Chen",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of Maryland, United States of America"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0006-5467-2592",
+     "authenticated-orcid": false,
+     "given": "Zhoujie",
+     "family": "Ding",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of California, Berkeley, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0000-4207-2369",
+     "authenticated-orcid": false,
+     "given": "Lamya",
+     "family": "Alowain",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "King Abdulaziz City for Science and Technology, Saudi Arabia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8379-902X",
+     "authenticated-orcid": false,
+     "given": "Xinyun",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Google Deepmind, United States of America"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9944-9232",
+     "authenticated-orcid": false,
+     "given": "David",
+     "family": "Wagner",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of California, Berkeley, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "654-668",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      10,
+      16
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2023,
+      10,
+      16
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "ACM",
+   "event": {
+    "name": "RAID 2023: The 26th International Symposium on Research in Attacks, Intrusions and Defenses",
+    "location": "Hong Kong China",
+    "acronym": "RAID 2023"
+   },
+   "DOI": "10.1145/3607199.3607242"
+  }
+ },
+ "ding2025primevul": {
+  "doi": "10.1109/icse55347.2025.00038",
+  "found": true,
+  "meta": {
+   "title": [
+    "Vulnerability Detection with Code Language Models: How Far are We?"
+   ],
+   "author": [
+    {
+     "given": "Yangruibo",
+     "family": "Ding",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Columbia University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yanjun",
+     "family": "Fu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Washington"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Omniyyah",
+     "family": "Ibrahim",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "King Abdulaziz City for Science and Technology"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Chawin",
+     "family": "Sitawarin",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Google DeepMind"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xinyun",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "UC Berkeley"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Basel",
+     "family": "Alomair",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "King Abdulaziz City for Science and Technology"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "David",
+     "family": "Wagner",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "UC Berkeley"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Baishakhi",
+     "family": "Ray",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Columbia University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yizheng",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Maryland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "1729-1741",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      4,
+      26
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2025,
+      4,
+      26
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "IEEE",
+   "event": {
+    "name": "2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)",
+    "location": "Ottawa, ON, Canada",
+    "start": {
+     "date-parts": [
+      [
+       2025,
+       4,
+       26
+      ]
+     ]
+    },
+    "end": {
+     "date-parts": [
+      [
+       2025,
+       5,
+       6
+      ]
+     ]
+    }
+   },
+   "DOI": "10.1109/icse55347.2025.00038"
+  }
+ },
+ "zhang2023exploitable": {
+  "doi": "10.1109/icse48619.2023.00061",
+  "found": true,
+  "meta": {
+   "title": [
+    "Demystifying Exploitable Bugs in Smart Contracts"
+   ],
+   "author": [
+    {
+     "given": "Zhuo",
+     "family": "Zhang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Purdue University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Brian",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Harrison High School"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Wen",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Georgia Institute of Technology"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zhiqiang",
+     "family": "Lin",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Ohio State University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE)"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "615-627",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2023,
+      5
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "IEEE",
+   "event": {
+    "name": "2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE)",
+    "location": "Melbourne, Australia",
+    "start": {
+     "date-parts": [
+      [
+       2023,
+       5,
+       14
+      ]
+     ]
+    },
+    "end": {
+     "date-parts": [
+      [
+       2023,
+       5,
+       20
+      ]
+     ]
+    }
+   },
+   "DOI": "10.1109/icse48619.2023.00061"
+  }
+ },
+ "zheng2024dappscan": {
+  "doi": "10.1109/tse.2024.3383422",
+  "found": true,
+  "meta": {
+   "title": [
+    "DAppSCAN: Building Large-Scale Datasets for Smart Contract Weaknesses in DApp Projects"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-7872-7718",
+     "authenticated-orcid": false,
+     "given": "Zibin",
+     "family": "Zheng",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Software Engineering, Sun Yat-sen University, Zhuhai, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7685-944X",
+     "authenticated-orcid": false,
+     "given": "Jianzhong",
+     "family": "Su",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Software Engineering, Sun Yat-sen University, Zhuhai, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-0192-9992",
+     "authenticated-orcid": false,
+     "given": "Jiachi",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Software Engineering, Sun Yat-sen University, Zhuhai, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4367-7201",
+     "authenticated-orcid": false,
+     "given": "David",
+     "family": "Lo",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Information Systems, Singapore Management University, Singapore"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2427-0641",
+     "authenticated-orcid": false,
+     "given": "Zhijie",
+     "family": "Zhong",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Software Engineering, Sun Yat-sen University, Zhuhai, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0004-6708-4074",
+     "authenticated-orcid": false,
+     "given": "Mingxi",
+     "family": "Ye",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Software Engineering, Sun Yat-sen University, Zhuhai, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "IEEE Transactions on Software Engineering"
+   ],
+   "volume": "50",
+   "issue": "6",
+   "page": "1360-1373",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      6
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2024,
+      6
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "event": null,
+   "DOI": "10.1109/tse.2024.3383422"
+  }
+ },
+ "diangelo2023smartbugs2": {
+  "doi": "10.1109/ase56229.2023.00060",
+  "found": true,
+  "meta": {
+   "title": [
+    "SmartBugs 2.0: An Execution Framework for Weakness Detection in Ethereum Smart Contracts"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-4217-4530",
+     "authenticated-orcid": false,
+     "given": "Monika",
+     "family": "di Angelo",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "TU Wien,Vienna,Austria"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1996-6134",
+     "authenticated-orcid": false,
+     "given": "Thomas",
+     "family": "Durieux",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "TU Delft,Delft,Netherlands"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6612-9013",
+     "authenticated-orcid": false,
+     "given": "João F.",
+     "family": "Ferreira",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "INESC-ID and IST, University of Lisbon,Lisbon,Portugal"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8950-1551",
+     "authenticated-orcid": false,
+     "given": "Gernot",
+     "family": "Salzer",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "TU Wien,Vienna,Austria"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE)"
+   ],
+   "volume": null,
+   "issue": null,
+   "page": "2102-2105",
+   "article-number": null,
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      9,
+      11
+     ]
+    ]
+   },
+   "published": {
+    "date-parts": [
+     [
+      2023,
+      9,
+      11
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "publisher": "IEEE",
+   "event": {
+    "name": "2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE)",
+    "location": "Luxembourg, Luxembourg",
+    "start": {
+     "date-parts": [
+      [
+       2023,
+       9,
+       11
+      ]
+     ]
+    },
+    "end": {
+     "date-parts": [
+      [
+       2023,
+       9,
+       15
+      ]
+     ]
+    }
+   },
+   "DOI": "10.1109/ase56229.2023.00060"
+  }
+ }
+}

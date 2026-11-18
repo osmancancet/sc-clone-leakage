@@ -1,0 +1,5 @@
+slither {"n": 106474, "h_l1": {"unique": 95268, "unique_frac": 0.8947536487781055, "rows_in_multi": 0.14071040817476568, "largest": 1021, "largest_frac": 0.009589195484343595, "conflict_groups_frac": 0.0060911016949152545, "multi_groups": 3776, "random_split_test_in_train_mean": 0.1297125867392146, "random_split_test_in_train_sd": 0.001761240204015021}, "cluster": {"unique": 34271, "unique_frac": 0.32187200631139995, "rows_in_multi": 0.7664688092867742, "largest": 6155, "largest_frac": 0.05780753986888818, "conflict_groups_frac": 0.11535190304061238, "multi_groups": 9406, "random_split_test_in_train_mean": 0.7464296190679715, "random_split_test_in_train_sd": 0.003010977845116047}}
+
+real	2m19.598s
+user	2m8.228s
+sys	0m10.761s

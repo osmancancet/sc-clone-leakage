@@ -1,0 +1,545 @@
+messi_re random lr 1 {'train': np.float64(0.996), 'val': np.float64(1.0), 'test': np.float64(0.974)}
+messi_re random lr 3 {'train': np.float64(0.987), 'val': np.float64(1.0), 'test': np.float64(0.966)}
+messi_re random lr 2 {'train': np.float64(0.993), 'val': np.float64(1.0), 'test': np.float64(0.987)}
+messi_re random lr 4 {'train': np.float64(0.993), 'val': np.float64(0.982), 'test': np.float64(0.974)}
+messi_re random lr 5 {'train': np.float64(0.994), 'val': np.float64(1.0), 'test': np.float64(1.0)}
+messi_re random lr 6 {'train': np.float64(0.991), 'val': np.float64(1.0), 'test': np.float64(0.974)}
+messi_re random lr 7 {'train': np.float64(0.989), 'val': np.float64(1.0), 'test': np.float64(0.979)}
+messi_re random lr 8 {'train': np.float64(0.994), 'val': np.float64(0.966), 'test': np.float64(0.993)}
+messi_re random lr 9 {'train': np.float64(0.982), 'val': np.float64(1.0), 'test': np.float64(0.949)}
+messi_re random cnn 0 {'train': np.float64(1.0), 'val': np.float64(1.0), 'test': np.float64(1.0)}
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+messi_re random cnn 3 {'train': np.float64(0.989), 'val': np.float64(1.0), 'test': np.float64(0.98)}
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+messi_re random cnn 1 {'train': np.float64(0.998), 'val': np.float64(1.0), 'test': np.float64(0.987)}
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+messi_re random cnn 2 {'train': np.float64(0.995), 'val': np.float64(1.0), 'test': np.float64(1.0)}
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+Traceback (most recent call last):
+  File "exp_fit.py", line 15, in <module>
+    from common import PROC, RESULTS, SEEDS
+ModuleNotFoundError: No module named 'common'
+FIT_DONE
+--- rerun Sat Nov 14 06:53:44 UTC 2026
+messi_re random cnn 6 {'train': np.float64(0.996), 'val': np.float64(1.0), 'test': np.float64(0.994)}
+messi_re random cnn 4 {'train': np.float64(0.994), 'val': np.float64(1.0), 'test': np.float64(0.981)}
+messi_re random cnn 7 {'train': np.float64(0.987), 'val': np.float64(1.0), 'test': np.float64(0.986)}
+messi_re random cnn 5 {'train': np.float64(0.994), 'val': np.float64(1.0), 'test': np.float64(1.0)}
+messi_re cluster lr 1 {'train': np.float64(0.993), 'val': np.float64(0.633), 'test': np.float64(0.36)}
+messi_re cluster lr 2 {'train': np.float64(0.978), 'val': np.float64(0.691), 'test': np.float64(0.752)}
+messi_re cluster lr 3 {'train': np.float64(0.978), 'val': np.float64(0.641), 'test': np.float64(0.722)}
+messi_re cluster lr 4 {'train': np.float64(0.956), 'val': np.float64(0.312), 'test': np.float64(0.162)}
+messi_re cluster lr 5 {'train': np.float64(0.924), 'val': np.float64(0.77), 'test': np.float64(0.105)}
+messi_re cluster lr 6 {'train': np.float64(0.836), 'val': np.float64(0.747), 'test': np.float64(0.31)}
+messi_re cluster lr 7 {'train': np.float64(0.994), 'val': np.float64(0.665), 'test': np.float64(0.641)}
+messi_re cluster lr 8 {'train': np.float64(0.984), 'val': np.float64(0.875), 'test': np.float64(0.13)}
+messi_re cluster lr 9 {'train': np.float64(0.994), 'val': np.float64(0.486), 'test': np.float64(0.404)}
+messi_re cluster cnn 1 {'train': np.float64(0.98), 'val': np.float64(0.633), 'test': np.float64(0.445)}
+messi_re cluster cnn 0 {'train': np.float64(0.957), 'val': np.float64(0.72), 'test': np.float64(0.773)}
+messi_re random cnn 9 {'train': np.float64(1.0), 'val': np.float64(1.0), 'test': np.float64(1.0)}
+messi_re random cnn 8 {'train': np.float64(1.0), 'val': np.float64(1.0), 'test': np.float64(1.0)}
+messi_re cluster cnn 2 {'train': np.float64(0.825), 'val': np.float64(0.691), 'test': np.float64(0.466)}
+messi_re cluster cnn 4 {'train': np.float64(0.815), 'val': np.float64(0.626), 'test': np.float64(0.618)}
+messi_re cluster cnn 3 {'train': np.float64(0.973), 'val': np.float64(0.703), 'test': np.float64(0.741)}
+messi_re cluster cnn 5 {'train': np.float64(0.942), 'val': np.float64(0.877), 'test': np.float64(0.838)}
+messi_re cluster cnn 6 {'train': np.float64(0.615), 'val': np.float64(0.401), 'test': np.float64(0.069)}
+messi_ts random lr 0 {'train': np.float64(1.0), 'val': np.float64(1.0), 'test': np.float64(1.0)}
+messi_ts random lr 1 {'train': np.float64(0.987), 'val': np.float64(1.0), 'test': np.float64(0.982)}
+messi_ts random lr 2 {'train': np.float64(1.0), 'val': np.float64(1.0), 'test': np.float64(1.0)}
+messi_ts random lr 3 {'train': np.float64(1.0), 'val': np.float64(1.0), 'test': np.float64(1.0)}
+messi_re cluster cnn 8 {'train': np.float64(0.984), 'val': np.float64(0.917), 'test': np.float64(0.357)}
+messi_ts random lr 4 {'train': np.float64(0.974), 'val': np.float64(1.0), 'test': np.float64(0.964)}
+messi_ts random lr 5 {'train': np.float64(1.0), 'val': np.float64(1.0), 'test': np.float64(1.0)}
+messi_re cluster cnn 9 {'train': np.float64(0.858), 'val': np.float64(0.639), 'test': np.float64(0.291)}
+messi_ts random lr 6 {'train': np.float64(0.987), 'val': np.float64(0.988), 'test': np.float64(0.986)}
+messi_re cluster cnn 7 {'train': np.float64(0.994), 'val': np.float64(0.611), 'test': np.float64(-0.008)}
+messi_ts random lr 7 {'train': np.float64(1.0), 'val': np.float64(1.0), 'test': np.float64(1.0)}
+messi_ts random lr 9 {'train': np.float64(0.974), 'val': np.float64(1.0), 'test': np.float64(0.967)}
+messi_ts random lr 8 {'train': np.float64(0.983), 'val': np.float64(1.0), 'test': np.float64(0.995)}
+messi_ts random cnn 0 {'train': np.float64(1.0), 'val': np.float64(1.0), 'test': np.float64(1.0)}
+messi_ts random cnn 3 {'train': np.float64(1.0), 'val': np.float64(1.0), 'test': np.float64(1.0)}
+messi_ts random cnn 1 {'train': np.float64(0.987), 'val': np.float64(1.0), 'test': np.float64(0.982)}
+messi_ts random cnn 2 {'train': np.float64(1.0), 'val': np.float64(1.0), 'test': np.float64(1.0)}
+messi_ts random cnn 7 {'train': np.float64(1.0), 'val': np.float64(1.0), 'test': np.float64(1.0)}
+messi_ts random cnn 4 {'train': np.float64(1.0), 'val': np.float64(1.0), 'test': np.float64(1.0)}
+messi_ts random cnn 5 {'train': np.float64(1.0), 'val': np.float64(1.0), 'test': np.float64(1.0)}
+messi_ts random cnn 6 {'train': np.float64(1.0), 'val': np.float64(1.0), 'test': np.float64(1.0)}
+messi_ts cluster lr 0 {'train': np.float64(0.981), 'val': np.float64(0.554), 'test': np.float64(0.197)}
+messi_ts cluster lr 1 {'train': np.float64(0.924), 'val': np.float64(0.289), 'test': np.float64(0.229)}
+messi_ts cluster lr 2 {'train': np.float64(0.981), 'val': np.float64(0.484), 'test': np.float64(0.508)}
+messi_ts cluster lr 3 {'train': np.float64(0.932), 'val': np.float64(0.594), 'test': np.float64(0.355)}
+messi_ts cluster lr 4 {'train': np.float64(0.983), 'val': np.float64(0.521), 'test': np.float64(0.142)}
+messi_ts cluster lr 5 {'train': np.float64(0.884), 'val': np.float64(0.42), 'test': np.float64(0.529)}
+messi_ts cluster lr 6 {'train': np.float64(0.983), 'val': np.float64(0.553), 'test': np.float64(0.665)}
+messi_ts cluster lr 7 {'train': np.float64(0.932), 'val': np.float64(0.532), 'test': np.float64(0.773)}
+messi_ts cluster lr 8 {'train': np.float64(0.94), 'val': np.float64(0.466), 'test': np.float64(0.536)}
+messi_ts cluster lr 9 {'train': np.float64(0.841), 'val': np.float64(0.748), 'test': np.float64(0.594)}
+messi_ts cluster cnn 1 {'train': np.float64(0.905), 'val': np.float64(0.289), 'test': np.float64(0.229)}
+messi_ts random cnn 8 {'train': np.float64(1.0), 'val': np.float64(1.0), 'test': np.float64(1.0)}
+messi_ts random cnn 9 {'train': np.float64(1.0), 'val': np.float64(1.0), 'test': np.float64(1.0)}
+messi_ts cluster cnn 0 {'train': np.float64(1.0), 'val': np.float64(0.769), 'test': np.float64(0.268)}
+messi_ts cluster cnn 2 {'train': np.float64(0.981), 'val': np.float64(0.282), 'test': np.float64(0.178)}
+messi_ts cluster cnn 3 {'train': np.float64(1.0), 'val': np.float64(0.681), 'test': np.float64(0.398)}
+messi_ts cluster cnn 5 {'train': np.float64(0.931), 'val': np.float64(0.5), 'test': np.float64(0.545)}
+messi_ts cluster cnn 4 {'train': np.float64(1.0), 'val': np.float64(0.669), 'test': np.float64(0.258)}
+messi_ts cluster cnn 6 {'train': np.float64(0.88), 'val': np.float64(0.553), 'test': np.float64(0.453)}
+slither official lr 0 {'train': np.float64(0.916), 'val': np.float64(0.772), 'test': np.float64(0.783)}
+messi_ts cluster cnn 7 {'train': np.float64(0.982), 'val': np.float64(0.658), 'test': np.float64(0.286)}
+messi_ts cluster cnn 8 {'train': np.float64(0.923), 'val': np.float64(0.33), 'test': np.float64(0.427)}
+messi_ts cluster cnn 9 {'train': np.float64(0.906), 'val': np.float64(0.748), 'test': np.float64(0.625)}
+slither official lr 1 {'train': np.float64(0.916), 'val': np.float64(0.78), 'test': np.float64(0.781)}
+slither official lr 2 {'train': np.float64(0.917), 'val': np.float64(0.78), 'test': np.float64(0.773)}
+slither official lr 3 {'train': np.float64(0.896), 'val': np.float64(0.773), 'test': np.float64(0.772)}
+slither official lr 4 {'train': np.float64(0.911), 'val': np.float64(0.783), 'test': np.float64(0.776)}
+slither official lr 5 {'train': np.float64(0.888), 'val': np.float64(0.766), 'test': np.float64(0.773)}
+slither official lr 6 {'train': np.float64(0.901), 'val': np.float64(0.765), 'test': np.float64(0.777)}
+slither official lr 7 {'train': np.float64(0.907), 'val': np.float64(0.777), 'test': np.float64(0.784)}
+slither official lr 8 {'train': np.float64(0.916), 'val': np.float64(0.791), 'test': np.float64(0.778)}
+slither official lr 9 {'train': np.float64(0.902), 'val': np.float64(0.783), 'test': np.float64(0.768)}
+slither official cnn 0 {'train': np.float64(0.859), 'val': np.float64(0.7), 'test': np.float64(0.721)}
+slither official cnn 3 {'train': np.float64(0.867), 'val': np.float64(0.73), 'test': np.float64(0.718)}
+slither official cnn 2 {'train': np.float64(0.866), 'val': np.float64(0.716), 'test': np.float64(0.714)}
+slither official cnn 4 {'train': np.float64(0.875), 'val': np.float64(0.728), 'test': np.float64(0.715)}
+slither official cnn 5 {'train': np.float64(0.869), 'val': np.float64(0.722), 'test': np.float64(0.705)}
+slither official cnn 6 {'train': np.float64(0.872), 'val': np.float64(0.711), 'test': np.float64(0.719)}
+slither cluster lr 0 {'train': np.float64(0.904), 'val': np.float64(0.732), 'test': np.float64(0.709)}
+slither official cnn 7 {'train': np.float64(0.844), 'val': np.float64(0.727), 'test': np.float64(0.705)}
+slither cluster lr 1 {'train': np.float64(0.869), 'val': np.float64(0.676), 'test': np.float64(0.621)}
+slither cluster lr 2 {'train': np.float64(0.917), 'val': np.float64(0.708), 'test': np.float64(0.672)}
+slither cluster lr 3 {'train': np.float64(0.919), 'val': np.float64(0.664), 'test': np.float64(0.62)}
+slither cluster lr 4 {'train': np.float64(0.873), 'val': np.float64(0.705), 'test': np.float64(0.655)}
+slither cluster lr 5 {'train': np.float64(0.791), 'val': np.float64(0.685), 'test': np.float64(0.578)}
+slither cluster lr 6 {'train': np.float64(0.907), 'val': np.float64(0.689), 'test': np.float64(0.672)}
+slither cluster lr 7 {'train': np.float64(0.903), 'val': np.float64(0.667), 'test': np.float64(0.617)}
+slither official cnn 8 {'train': np.float64(0.847), 'val': np.float64(0.721), 'test': np.float64(0.699)}
+slither cluster lr 8 {'train': np.float64(0.863), 'val': np.float64(0.688), 'test': np.float64(0.695)}
+slither cluster lr 9 {'train': np.float64(0.871), 'val': np.float64(0.744), 'test': np.float64(0.651)}
+slither official cnn 9 {'train': np.float64(0.872), 'val': np.float64(0.728), 'test': np.float64(0.715)}
+slither cluster cnn 2 {'train': np.float64(0.779), 'val': np.float64(0.633), 'test': np.float64(0.564)}
+slither cluster cnn 1 {'train': np.float64(0.798), 'val': np.float64(0.583), 'test': np.float64(0.567)}
+slither cluster cnn 0 {'train': np.float64(0.83), 'val': np.float64(0.651), 'test': np.float64(0.6)}
+slither cluster cnn 3 {'train': np.float64(0.78), 'val': np.float64(0.524), 'test': np.float64(0.584)}
+slither cluster cnn 5 {'train': np.float64(0.58), 'val': np.float64(0.514), 'test': np.float64(0.482)}
+slither cluster cnn 4 {'train': np.float64(0.831), 'val': np.float64(0.668), 'test': np.float64(0.588)}
+slither cluster cnn 6 {'train': np.float64(0.797), 'val': np.float64(0.614), 'test': np.float64(0.571)}
+slither cluster cnn 7 {'train': np.float64(0.862), 'val': np.float64(0.596), 'test': np.float64(0.559)}
+slither cluster cnn 8 {'train': np.float64(0.785), 'val': np.float64(0.595), 'test': np.float64(0.578)}
+slither cluster cnn 9 {'train': np.float64(0.833), 'val': np.float64(0.722), 'test': np.float64(0.591)}
+FIT_DONE
+slither official cnn 1 {'train': np.float64(0.872), 'val': np.float64(0.736), 'test': np.float64(0.718)}

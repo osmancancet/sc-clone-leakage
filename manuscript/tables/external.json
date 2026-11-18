@@ -1,0 +1,48 @@
+{
+ "caption_tr": "SmartBugs-Curated harici testinde etiket bazında MCC / PR-AUC değerleri",
+ "caption_en": "Per-label MCC / PR-AUC values on the SmartBugs-Curated external test",
+ "font": 7,
+ "wide": false,
+ "header": [
+  "Etiket",
+  "Sınıf uyumu",
+  "Pozitif",
+  "Anahtar kelime kuralı",
+  "TF-IDF + LR",
+  "TextCNN"
+ ],
+ "rows": [
+  [
+   "Yeniden giriş",
+   "uyumlu",
+   "31",
+   "0,516 / 0,438",
+   "0,211 / 0,444",
+   "0,185 / 0,438"
+  ],
+  [
+   "Denetlenmemiş çağrı",
+   "kısmen",
+   "52",
+   "0,529 / 0,542",
+   "0,127 / 0,751",
+   "0,112 / 0,642"
+  ],
+  [
+   "Erişim denetimi",
+   "kısmen",
+   "18",
+   "0,333 / 0,248",
+   "−0,049 / 0,128",
+   "−0,042 / 0,141"
+  ],
+  [
+   "Aritmetik",
+   "uyumsuz",
+   "15",
+   "−0,097 / 0,101",
+   "−0,086 / 0,110",
+   "−0,072 / 0,103"
+  ]
+ ]
+}

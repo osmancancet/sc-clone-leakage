@@ -1,0 +1,8 @@
+# raw data keep their own licences and are downloaded by the user (see README)
+data/
+# submission material and author-identifying files are not published
+submission/
+manuscript/main_authors.docx
+manuscript/*.txt
+__pycache__/
+*.pyc

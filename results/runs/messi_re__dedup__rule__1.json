@@ -1,0 +1,50 @@
+{
+ "dataset": "messi_re",
+ "regime": "dedup",
+ "model": "rule",
+ "seed": 1,
+ "n_train": 133,
+ "n_val": 15,
+ "n_test": 37,
+ "seconds": 0.002778291702270508,
+ "threads": 1,
+ "leak_l1": 0.0,
+ "labels": {
+  "y": {
+   "thr": 0.5,
+   "all": {
+    "mcc": 0.0,
+    "f1": 0.425531914893617,
+    "tpr": 1.0,
+    "fpr": 1.0,
+    "tp": 10,
+    "fp": 27,
+    "fn": 0,
+    "tn": 0,
+    "pos": 10,
+    "n": 37,
+    "pr_auc": 0.2702702702702703,
+    "roc_auc": 0.5,
+    "prec_at_0.01": 0.01,
+    "prec_at_0.001": 0.001
+   },
+   "unseen": {
+    "mcc": 0.0,
+    "f1": 0.4,
+    "tpr": 1.0,
+    "fpr": 1.0,
+    "tp": 9,
+    "fp": 27,
+    "fn": 0,
+    "tn": 0,
+    "pos": 9,
+    "n": 36,
+    "pr_auc": 0.25,
+    "roc_auc": 0.5,
+    "prec_at_0.01": 0.01,
+    "prec_at_0.001": 0.001
+   }
+  }
+ },
+ "leak_cluster": 0.02702702702702703
+}

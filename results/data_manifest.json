@@ -1,0 +1,38 @@
+{
+ "n_rows": {
+  "slither": 106474,
+  "messi_re": 1671,
+  "messi_ts": 2565,
+  "messi_resnip": 2000,
+  "smartbugs": 143,
+  "solidifi": 350
+ },
+ "sources": {
+  "Messi-Q_ReChecker": {
+   "url": "https://github.com/Messi-Q/ReChecker",
+   "commit": "05d722f569247993beb135a73a91e7b880aebe55"
+  },
+  "smartbugs_smartbugs-curated": {
+   "url": "https://github.com/smartbugs/smartbugs-curated",
+   "commit": "230e649123477eff332742a59a1c7cc6dc286cab"
+  },
+  "DependableSystemsLab_SolidiFI-benchmark": {
+   "url": "https://github.com/DependableSystemsLab/SolidiFI-benchmark",
+   "commit": "4b0573e1b3f7031396de6f48f7f3e7380222ad3a"
+  },
+  "hf_slither": {
+   "url": "https://huggingface.co/datasets/mwritescode/slither-audited-smart-contracts",
+   "revision": "13594107c7afa216cb0c126f38b8ff6548112dcf"
+  }
+ },
+ "sha256": {
+  "hf_slither/data/big-splits.csv": "25e0523fa4c5cfd2b480d0f03a446ed8a74c66edda442703bfdf1fcbb085b407",
+  "hf_slither/data/label_mappings.json": "4d8dec3f8cfd0b573309248d4899be0ed651ff9648ee77e8b0a90a429b6d8e39",
+  "hf_slither": "6dadf447862ba30965af3cb97c2e28e0f691c67a6dd7c526ab69e42f9a00b145",
+  "hf_slither/data/small-splits.csv": "3df8b493fdc0c1148de9b9ca9fadf3411a3d00aaa66437bc9786dd1837d8b236",
+  "Messi-Q_ReChecker/train_data/reentrancy_1671.txt": "b839f8b1ae6aa1111a875ecf42ef7b74883b1831bfdd12516b551a9cf79c8135",
+  "Messi-Q_ReChecker/train_data/timestamp.txt": "844f411ba6dff0f5ccb912163f421b65d58755966389b2b039a93f199e8ba6d5",
+  "Messi-Q_ReChecker/train_data/reentrancy_code_snippets_2000.txt": "bfdc6736803734501e7c35ee87178c8a6dd05ee06048a4c9f8944ec72d7e51f9",
+  "smartbugs_smartbugs-curated/vulnerabilities.json": "2a7c119406b1c56df6087fbfb041f5d3aacbb07a82ee350e2220b51f429646bc"
+ }
+}

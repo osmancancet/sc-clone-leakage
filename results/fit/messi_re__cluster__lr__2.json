@@ -1,0 +1,13 @@
+{
+ "dataset": "messi_re",
+ "regime": "cluster",
+ "model": "lr",
+ "seed": 2,
+ "labels": {
+  "y": {
+   "train": 0.9778784236780219,
+   "val": 0.6908492797077574,
+   "test": 0.752492218599458
+  }
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "caption_tr": "Literatürdeki yakın çalışmaların karşılaştırılması",
+ "caption_en": "Comparison with related studies",
+ "wide": true,
+ "font": 7,
+ "header": [
+  "Çalışma",
+  "Veri seti",
+  "Bölme",
+  "Tekrar / klon denetimi",
+  "Bildirilen başarı"
+ ],
+ "rows": [
+  [
+   "Deng ve ark. (2023) [@deng2023]",
+   "ScrawlD, 9.252 sözleşme, 4 tür",
+   "Rastgele %70/%30",
+   "Belirtilmemiş",
+   "Doğruluk %89,5-94,8"
+  ],
+  [
+   "Li ve ark. (2023) [@li2023]",
+   "SmartBugs + SolidiFI, 4 tür",
+   "Rastgele %70/%20/%10",
+   "Belirtilmemiş",
+   "Doğruluk %83,6-91,0"
+  ],
+  [
+   "Ma ve ark. (2023) [@ma2023]",
+   "SmartBugs Wild alt kümesi, 7.018 sözleşme",
+   "%80/%20",
+   "Belirtilmemiş",
+   "Doğruluk %85,6 (yeniden giriş)"
+  ],
+  [
+   "Guo ve ark. (2024) [@guo2024]",
+   "SmartBugs Wild, ESC, Qian ve ark. verisi",
+   "Sözleşme bazında %80/%20",
+   "Belirtilmemiş",
+   "Ort. doğruluk %90"
+  ],
+  [
+   "Zhang ve ark. (2024) [@zhang2024]",
+   "SmartBugs, el ile doğrulanmış etiketler",
+   "Rastgele %70/%20/%10",
+   "Aynı ana fonksiyonlu kopyalar silinmiş",
+   "Doğruluk %87,3-91,0"
+  ],
+  [
+   "Liang ve ark. (2025) [@liang2025]",
+   "SmartBugs Wild, 3 tür",
+   "Belirtilmemiş; eşik doğrulamada",
+   "Belirtilmemiş",
+   "Makro F1 %90,2"
+  ],
+  [
+   "Alhayani ve ark. (2025) [@alhayani2025]",
+   "BCCC-SCsVuls-2024 (Slither-Audited dahil), 111.897 örnek",
+   "Tabakalı %70/%30, 5 katlı çapraz doğrulama",
+   "Belirtilmemiş",
+   "F1 %93,2"
+  ],
+  [
+   "Mandana ve ark. (2025) [@mandana2025]",
+   "TrustLLM, EVuLLM (662 fonksiyon)",
+   "Hazır bölme; %70/%10/%20",
+   "Kısmi: aynı kimlik öneki birlikte",
+   "Doğruluk %94,8"
+  ],
+  [
+   "D. K. J ve ark. (2026) [@biascorr2026]",
+   "3.316 DeFi sözleşmesi",
+   "Belirtilmemiş",
+   "Boyut vekili yanlılığı düzeltilmiş; klon yok",
+   "Özette yalnız yöntem"
+  ],
+  [
+   "Alsunaidi ve ark. (2026) [@alsunaidi2026]",
+   "DIVE, 22.330 sözleşme, 8 tür",
+   "Özette belirtilmemiş",
+   "Etiket tutarlılığı hedeflenmiş; klon denetimi özette yok",
+   "Veri seti çalışması"
+  ],
+  [
+   "Bu çalışma",
+   "Messi-Q (3 küme), Slither-Audited, SmartBugs-Curated, SolidiFI",
+   "Rastgele, tekilleştirilmiş, klona duyarlı, sürüm, resmî, harici",
+   "Ham, L1, tip-2 ve MinHash (J ≥ 0,9)",
+   "MCC, PR-AUC, FPR, düşük yaygınlıkta kesinlik"
+  ]
+ ]
+}

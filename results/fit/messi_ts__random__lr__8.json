@@ -1,0 +1,13 @@
+{
+ "dataset": "messi_ts",
+ "regime": "random",
+ "model": "lr",
+ "seed": 8,
+ "labels": {
+  "y": {
+   "train": 0.9834880227480172,
+   "val": 1.0,
+   "test": 0.9954131274660514
+  }
+ }
+}

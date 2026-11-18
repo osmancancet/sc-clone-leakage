@@ -1,0 +1,13 @@
+{
+ "dataset": "messi_ts",
+ "regime": "cluster",
+ "model": "cnn",
+ "seed": 8,
+ "labels": {
+  "y": {
+   "train": 0.9230398166541416,
+   "val": 0.3297384186090638,
+   "test": 0.42684013830002454
+  }
+ }
+}

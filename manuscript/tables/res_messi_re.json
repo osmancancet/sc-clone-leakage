@@ -1,0 +1,64 @@
+{
+ "caption_tr": "Messi-Q yeniden giriş kümesinde bölme rejimine göre MCC değerleri",
+ "caption_en": "MCC values by split regime on the Messi-Q reentrancy set",
+ "wide": true,
+ "font": 7,
+ "header": [
+  "Model",
+  "Rastgele",
+  "Tekilleştirilmiş rastgele",
+  "Klona duyarlı",
+  "Harici (SmartBugs)"
+ ],
+ "rows": [
+  [
+   "Anahtar kelime kuralı",
+   "t.d. (sabit tahmin)",
+   "t.d. (sabit tahmin)",
+   "t.d. (sabit tahmin)",
+   "0,516 [0,398; 0,633]"
+  ],
+  [
+   "5-EYK (bellek)",
+   "0,977 [0,948; 0,995]",
+   "0,257 [0,084; 0,429]",
+   "0,265 [0,017; 0,470]",
+   "0,195 [0,094; 0,287]"
+  ],
+  [
+   "TF-IDF + LR",
+   "0,978 [0,952; 0,995]",
+   "0,424 [0,214; 0,610]",
+   "0,410 [0,183; 0,629]",
+   "0,262 [0,139; 0,382]"
+  ],
+  [
+   "CodeBERT + LR",
+   "0,993 [0,978; 1,000]",
+   "0,336 [0,128; 0,527]",
+   "0,126 [−0,079; 0,432]",
+   "0,239 [0,101; 0,370]"
+  ],
+  [
+   "TextCNN",
+   "0,993 [0,980; 1,000]",
+   "0,393 [0,174; 0,573]",
+   "0,459 [0,230; 0,688]",
+   "0,254 [0,102; 0,388]"
+  ],
+  [
+   "Test∈eğitim (küme)",
+   "%98,9",
+   "%2,4",
+   "%0,0",
+   "-"
+  ],
+  [
+   "Test∈eğitim (L1)",
+   "%98,8",
+   "%0,0",
+   "%0,0",
+   "%7,0"
+  ]
+ ]
+}

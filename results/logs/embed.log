@@ -1,0 +1,36 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 10970.33it/s]
+slither 0 22440 1s
+slither 320 22440 24s
+slither 640 22440 76s
+slither 960 22440 180s
+slither 1280 22440 267s
+slither 1600 22440 351s
+slither 1920 22440 436s
+slither 2240 22440 533s
+slither 2560 22440 613s
+slither 2880 22440 690s
+slither 3200 22440 769s
+slither 3520 22440 849s
+slither 3840 22440 928s
+slither 4160 22440 1006s
+slither 4480 22440 1092s
+slither 4800 22440 1203s
+slither 5120 22440 1282s
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 45612.68it/s]
+slither 1600 22440 575s
+slither 3200 22440 1301s
+slither 4800 22440 2044s
+slither 6400 22440 2773s
+slither 8000 22440 3513s
+slither 9600 22440 4262s
+slither 11200 22440 5012s
+slither 12800 22440 5754s
+slither 14400 22440 6499s
+slither 16000 22440 7249s
+slither 17600 22440 8006s
+slither 19200 22440 8756s
+slither 20800 22440 9503s
+slither 22400 22440 10275s
+slither 24000 22440 10296s

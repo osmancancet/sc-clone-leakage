@@ -1,0 +1,13 @@
+{
+ "dataset": "messi_re",
+ "regime": "random",
+ "model": "cnn",
+ "seed": 3,
+ "labels": {
+  "y": {
+   "train": 0.9891443514671141,
+   "val": 1.0,
+   "test": 0.9796332545270098
+  }
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "holm1979": {
+  "text": "S. Holm, “A simple sequentially rejective multiple test procedure”, *Scandinavian Journal of Statistics*, 6(2), 65–70, 1979.",
+  "verify": "JSTOR stable 4615733; no DOI registered"
+ },
+ "demsar2006": {
+  "text": "J. Demšar, “Statistical comparisons of classifiers over multiple data sets”, *Journal of Machine Learning Research*, 7, 1–30, 2006.",
+  "verify": "https://jmlr.org/papers/v7/demsar06a.html"
+ },
+ "rossini2022": {
+  "text": "Internet: M. Rossini, Slither Audited Smart Contracts Dataset (revizyon 13594107), https://huggingface.co/datasets/mwritescode/slither-audited-smart-contracts, 14.11.2026.",
+  "verify": "Hugging Face dataset card, revision 13594107"
+ }
+}

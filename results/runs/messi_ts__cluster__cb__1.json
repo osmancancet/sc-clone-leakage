@@ -1,0 +1,50 @@
+{
+ "dataset": "messi_ts",
+ "regime": "cluster",
+ "model": "cb",
+ "seed": 1,
+ "n_train": 1832,
+ "n_val": 206,
+ "n_test": 527,
+ "seconds": 0.13355398178100586,
+ "threads": 1,
+ "leak_l1": 0.0,
+ "labels": {
+  "y": {
+   "thr": 6.071207022666997,
+   "all": {
+    "mcc": 0.0,
+    "f1": 0.0,
+    "tpr": 0.0,
+    "fpr": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 180,
+    "tn": 347,
+    "pos": 180,
+    "n": 527,
+    "pr_auc": 0.4237230971571199,
+    "roc_auc": 0.6112391930835734,
+    "prec_at_0.01": null,
+    "prec_at_0.001": null
+   },
+   "unseen": {
+    "mcc": 0.0,
+    "f1": 0.0,
+    "tpr": 0.0,
+    "fpr": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 180,
+    "tn": 347,
+    "pos": 180,
+    "n": 527,
+    "pr_auc": 0.4237230971571199,
+    "roc_auc": 0.6112391930835734,
+    "prec_at_0.01": null,
+    "prec_at_0.001": null
+   }
+  }
+ },
+ "leak_cluster": 0.0
+}

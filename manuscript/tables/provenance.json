@@ -1,0 +1,48 @@
+{
+ "caption_tr": "Veri kaynakları ve lisanslar",
+ "caption_en": "Data sources and licences",
+ "font": 7,
+ "wide": true,
+ "header": [
+  "Veri seti",
+  "Kaynak ve sürüm",
+  "Lisans",
+  "Etiket kaynağı",
+  "Birim",
+  "N"
+ ],
+ "rows": [
+  [
+   "Messi-Q (ReChecker)",
+   "GitHub, commit 05d722f",
+   "MIT",
+   "Yazar örüntüleri; yazarların yazdığı örnekler",
+   "Sözleşme",
+   "1.671 + 2.565"
+  ],
+  [
+   "Slither-Audited",
+   "Hugging Face, revizyon 13594107",
+   "MIT (veri kartı)",
+   "Slither çıktısı (sürüm belirtilmemiş)",
+   "Düzleştirilmiş dosya",
+   "106.474"
+  ],
+  [
+   "SmartBugs-Curated",
+   "GitHub, commit 230e649",
+   "Apache-2.0",
+   "Uzman",
+   "Sözleşme",
+   "143"
+  ],
+  [
+   "SolidiFI",
+   "GitHub, commit 4b0573e",
+   "MIT; sözleşmeler özgün lisanslarında",
+   "Hata enjeksiyonu",
+   "Sözleşme",
+   "350"
+  ]
+ ]
+}
